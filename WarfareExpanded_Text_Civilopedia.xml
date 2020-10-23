@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- Land Units -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_INFANTRY_CHAPTER_HISTORY_PARA_1">
+			<Text>La infantería blindada es infantería equipada con semiorugas, vehículos blindados de transporte de personal (APC) o vehículos de combate de infantería (IFV) para transporte y combate (ver también fuerza mecanizada). La infantería blindada se distingue de la infantería motorizada en que sus vehículos brindan un grado de protección contra el fuego hostil, a diferencia de los vehículos de ruedas de "piel blanda" (camiones o jeeps) para la infantería motorizada. Las armas de apoyo para la infantería blindada también se proporcionan con transporte motorizado, o se integran directamente en los vehículos de combate para mantener el ritmo de la infantería blindada en combate.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_INFANTRY_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_INFANTRY_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_INFANTRY_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_INFANTRY_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMPOSITE_BOWMAN_CHAPTER_HISTORY_PARA_1">
+			<Text>Considerado ampliamente como el más sofisticado de todos los diseños de arcos, el arco compuesto se diferencia de otros modelos tradicionales en que están construidos con tiras en capas de hueso, cuerno u otros materiales pegados entre sí para formar un arco extremadamente fuerte y poderoso. Se cree que el arco compuesto se originó con los nómadas tribales de Asia en algún momento del primer o segundo milenio antes de Cristo.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMPOSITE_BOWMAN_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMPOSITE_BOWMAN_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMPOSITE_BOWMAN_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMPOSITE_BOWMAN_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULVERIN_CHAPTER_HISTORY_PARA_1">
+			<Text>Una culverina fue un antepasado relativamente simple del mosquete, y más tarde un cañón medieval, adaptado para su uso por los franceses en el siglo XV, y más tarde adaptado para uso naval por los ingleses a fines del siglo XVI. La culebrina se utilizó para bombardear objetivos a distancia. El arma tenía un cañón relativamente largo y una construcción ligera. La culverina disparó proyectiles sólidos de tiro redondo con una alta velocidad de boca, produciendo un alcance relativamente largo y una trayectoria plana. El disparo redondo se refiere a la clásica bala de cañón esférica sólida. En general, la culverina fue un avance significativo. Dado que disparaba una bola de hierro y dependía de la pólvora para la propulsión, la bola pesada significaba un vuelo relativamente estable y la propulsión de pólvora significaba un rápido y de largo alcance.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULVERIN_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULVERIN_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULVERIN_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULVERIN_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_GUN_CHAPTER_HISTORY_PARA_1">
+			<Text>Un cañón de campaña es una pieza de artillería. Originalmente, el término se refería a cañones más pequeños que podían acompañar a un ejército de campaña en la marcha y, cuando estaban en combate, podían moverse por el campo de batalla en respuesta a circunstancias cambiantes (artillería de campaña), a diferencia de los cañones instalados en un fuerte (artillería de guarnición / artillería costera). ), o para asediar cañones o morteros que eran demasiado grandes para moverse rápidamente y sólo se utilizarían en un asedio prolongado. Al mover los cañones de un punto a otro durante la batalla, las formaciones enemigas podrían dividirse para ser manejadas por la infantería dondequiera que se concentraran, aumentando dramáticamente la efectividad general de la infantería.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_GUN_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_GUN_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_GUN_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_GUN_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_INFANTRY_CHAPTER_HISTORY_PARA_1">
+			<Text>La infantería pesada se refiere a soldados de infantería fuertemente armados y acorazados entrenados para montar asaltos frontales y / o anclar el centro defensivo de una línea de batalla. Esto los diferencia de la infantería media o ligera, que son tropas de escaramuzadoras relativamente móviles y con armadura ligera destinadas a proteger, explorar y otras funciones inadecuadas para los soldados más pesados. El concepto de infantería pesada se ha vuelto obsoleto en gran medida por los avances del siglo XX en las tácticas del campo de batalla, las armas pequeñas y la tecnología de blindaje corporal, que han dado lugar a un papel más consolidado para el soldado de infantería. Como tal, el término "infantería pesada" casi siempre se refiere a las tropas anteriores a la Edad de la Pólvora. En la antigua Grecia, los hoplitas eran una forma común de infantería pesada. Herodoto ha descrito una unidad de infantería de élite de 10.000 soldados, a los que llamó los Inmortales, en el ejército del Imperio Aqueménida. El ejército de Alejandro empleó a la infantería conocida como falangita: soldados equipados con un pequeño escudo y una larga pica, y empleados en una formación conocida como la falange sarissa. La infantería pesada de la república romana premariana incluía a los Hastati, Principes y Triarii.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_INFANTRY_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_INFANTRY_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_INFANTRY_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_INFANTRY_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_HORSEMAN_CHAPTER_HISTORY_PARA_1">
+			<Text>Un catafracto era una forma de caballería pesada blindada utilizada en la guerra antigua por varios pueblos de Eurasia occidental y la estepa euroasiática. La palabra inglesa se deriva del griego Kataphraktos (plural: Kataphraktoi), que literalmente significa "blindado" o "completamente cerrado". Históricamente, el catafracto era un jinete con una armadura muy pesada, con el jinete y el corcel cubiertos de pies a cabeza con una armadura de escamas, mientras que normalmente empuñaba un kontos o una lanza como arma. Los catafractos sirvieron como caballería de élite o como fuerza de asalto para la mayoría de los imperios y naciones que los desplegaron, principalmente utilizados para cargas impetuosas para romper formaciones de infantería. Narrado por muchos historiadores desde los primeros días de la Antigüedad hasta la Alta Edad Media, se cree que influyeron en los caballeros europeos posteriores, a través del contacto con el Imperio Bizantino.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_HORSEMAN_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_HORSEMAN_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_HORSEMAN_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_HORSEMAN_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_REITER_CHAPTER_HISTORY_PARA_1">
+			<Text>Los Hostigadores (en alemán: Reiter, o jinete, abreviado del original "Schwarze Reiter", literalmente "jinetes negros" por el color de su armadura) eran un tipo de caballería, que apareció en los ejércitos de Europa occidental en el siglo XVI en lugar de los anticuados caballeros armados con lanzas, al mismo tiempo que los coraceros y dragones empezaron a distinguirse tipológicamente de otros tipos de caballería. Los Reiters elevaron las armas de fuego al estado de armas primarias, a diferencia de la caballería pesada de Europa occidental anterior, que se basaba principalmente en armas cuerpo a cuerpo. Las principales armas de los Reiters eran dos o más pistolas y una espada; la mayoría usaba cascos y corazas y, a menudo, armaduras adicionales para brazos y piernas; a veces también llevaban un arma de fuego de caballería larga conocida como arcabuz o carabina (aunque este tipo de jinetes pronto se consideró como una clase separada de caballería: el arcabucero o arcabucero en Gran Bretaña).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_REITER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_REITER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_REITER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_REITER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSHIP_CHAPTER_HISTORY_PARA_1">
+			<Text>El desarrollo de tanques en la Primera Guerra Mundial fue una respuesta al estancamiento que se había desarrollado en el frente occidental. Aunque los vehículos que incorporaron los principios básicos del tanque (blindaje, potencia de fuego y movilidad todo terreno) se habían proyectado en la década anterior a la guerra, fueron las bajas alarmantemente elevadas del inicio de su guerra de trincheras las que estimularon el desarrollo. La investigación se llevó a cabo tanto en Gran Bretaña como en Francia, y Alemania solo tardó en seguir el ejemplo de los Aliados. Los primeros tanques eran mecánicamente poco fiables. Hubo problemas que causaron considerables tasas de desgaste durante el despliegue y tránsito de combate. El terreno fuertemente bombardeado era intransitable para los vehículos convencionales, y solo los tanques de gran movilidad, como el Mark y el FT, funcionaban razonablemente bien. La forma romboidal, las orugas y la longitud de 26 pies (8 m) del Mark I significaban que podía sortear obstáculos, especialmente trincheras anchas, que los vehículos con ruedas no podían.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSHIP_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSHIP_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSHIP_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSHIP_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLED_CANNON_CHAPTER_HISTORY_PARA_1">
+			<Text>La práctica del estriado (lanzar líneas en espiral dentro del cañón del cañón) se aplicó a la artillería con mayor frecuencia en 1855, ya que daba estabilidad giroscópica a los proyectiles del cañón, lo que mejoraba su precisión. Al darse cuenta de que el hierro era más difícil de perforar con un cañón de retrocarga, Armstrong diseñó pistolas de avancarga estriadas, que tuvieron éxito; The Times informó: "incluso los más fervientes creyentes en la invulnerabilidad de nuestros acorazados actuales se vieron obligados a confesar que contra tal artillería, a tales distancias, sus placas y costados eran casi tan penetrables como barcos de madera". El cañón superior del mundo occidental les proporcionó tremendas ventajas en la guerra. Por ejemplo, en la Primera Guerra del Opio en China, durante el siglo XIX, los acorazados británicos bombardearon las zonas costeras y las fortificaciones desde lejos, a salvo del alcance de los cañones chinos.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLED_CANNON_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLED_CANNON_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLED_CANNON_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLED_CANNON_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_HOWITZER_CHAPTER_HISTORY_PARA_1">
+			<Text>El Obús pesado es un obús de gran calibre equipado con su propio sistema de propulsión para moverse hacia su objetivo. Son vehículos de alta movilidad, generalmente basados ​​en orugas continuas, cerradas o cubiertas y portando un obús de gran calibre. Por lo general, se utilizan para apoyo de bombardeo indirecto de largo alcance en el campo de batalla. La artillería pesada SP moderna está altamente informatizada con la capacidad de autoevaluar las posiciones de disparo utilizando sistemas como GPS y sistemas de navegación inercial. Esto, junto con las computadoras balísticas / de control de fuego digital y las comunicaciones digitales, permite que las armas individuales se dispersen en un área amplia y aún así disparen rondas al objetivo simultáneamente con las otras armas en su batería.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_HOWITZER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_HOWITZER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_HOWITZER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_HOWITZER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LINE_INFANTRY_CHAPTER_HISTORY_PARA_1">
+			<Text>La infantería de línea es el tipo de infantería que compuso la base de los ejércitos terrestres europeos desde mediados del siglo XVII hasta mediados del siglo XIX. Tanto para el ejercicio de batalla como para el de desfile, constaba de 2 a 4 filas de soldados de infantería colocados uno al lado del otro en alineación rígida, maximizando así el efecto de su potencia de fuego. Por extensión, el término pasó a aplicarse a los regimientos regulares "de línea" en oposición a los escaramuzadores, guardias de a pie, milicias y otras categorías especiales de infantería. La infantería de línea utilizó principalmente tres formaciones en sus batallas: la línea, el cuadrado y la columna. Contra la caballería enemiga circundante, la infantería de línea podría adoptar rápidamente formaciones cuadradas para proporcionar protección. Dichos cuadrados eran huecos (constaban de cuatro líneas), a diferencia de los cuadrados de los piqueros y de los mosqueteros de estilo antiguo.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LINE_INFANTRY_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LINE_INFANTRY_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LINE_INFANTRY_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LINE_INFANTRY_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_INFANTRY_CHAPTER_HISTORY_PARA_1">
+			<Text>Al abrirse el siglo XX, el mundo experimentó dos de las guerras más mortíferas y destructivas de la historia de la humanidad. Fue una época de notable avance en la tecnología de la matanza, y los soldados de infantería de la Primera Guerra Mundial se enfrentaron a todos los terror imaginables que los científicos e ingenieros del mundo podían arrojarles. Normalmente armados con poco más que un rifle de cerrojo y un uniforme simple, estas tropas desafiaron los horrores de la guerra de trincheras para defender sus hogares y familias..</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_INFANTRY_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_INFANTRY_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_INFANTRY_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_INFANTRY_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_HOWITZER_CHAPTER_HISTORY_PARA_1">
+			<Text>El obús M101A1 de 105 mm (anteriormente denominado M2A1) fue una pieza de artillería desarrollada y utilizada por Estados Unidos. Fue el obús de campo ligero estándar de EE. UU. En la Segunda Guerra Mundial y entró en acción tanto en los teatros europeos como en los del Pacífico. Al entrar en producción en 1941, rápidamente ganó una reputación por su precisión y un golpe poderoso. El M101A1 disparaba municiones semifijadas de alto explosivo (HE) de 105 mm (4,1 pulgadas) y tenía un alcance de 12,330 yardas (11,270 m), lo que lo hacía adecuado para apoyar a la infantería.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_HOWITZER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_HOWITZER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_HOWITZER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_HOWITZER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_ARTILLERY_CHAPTER_HISTORY_PARA_1">
+			<Text>El obús M102 de 105 mm se utiliza en operaciones aéreas móviles (helicópteros), aviones de ataque e infantería ligera. El carro de armas es de aluminio soldado ligero, montado en un mecanismo de retroceso variable. El arma se carga y coloca manualmente, y puede ser remolcada por un camión de 2 toneladas o un vehículo de ruedas multipropósito de alta movilidad (HMMWV), puede ser transportada por helicópteros UH-60 Black Hawk o puede ser arrojada en paracaídas con unidades aerotransportadas. Cuando está emplazado, el alto volumen de fuego del obús compensa en gran medida el menor peso explosivo del proyectil en comparación con los obuses de 155 mm y 8 pulgadas del Ejército. Desde 1964, el Ejército adquirió 1.150 obuses remolcados M102. El arma está siendo reemplazada por el obús de 105 mm de la serie M119.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_ARTILLERY_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_ARTILLERY_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_ARTILLERY_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_ARTILLERY_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STRADIOT_CHAPTER_HISTORY_PARA_1">
+			<Text>Los Stratioti o stradioti fueron unidades mercenarias de los Balcanes reclutadas principalmente por estados del sur y centro de Europa desde el siglo XV hasta mediados del siglo XVIII. Los stratioti fueron pioneros de las tácticas de caballería ligera durante esta época. A principios del siglo XVI, la caballería pesada en los ejércitos europeos fue principalmente remodelada después de los stradioti albaneses del ejército veneciano, húsares húngaros y unidades de caballería mercenaria alemana (Schwarzreiter). [33] Emplearon tácticas de golpe y fuga, emboscadas, fingidas retiradas y otras maniobras complejas. De alguna manera, estas tácticas se hicieron eco de las de los sipahis y akinci otomanos. Tuvieron algunos éxitos notables también contra la caballería pesada francesa durante las guerras italianas.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STRADIOT_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STRADIOT_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STRADIOT_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STRADIOT_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_INFANTRY_CHAPTER_HISTORY_PARA_1">
+			<Text>La infantería moderna de fusileros se convirtió en la fuerza principal para tomar y mantener terreno en los campos de batalla de todo el mundo, un elemento vital del combate de armas combinadas. A medida que la potencia de fuego continuó aumentando, el uso de líneas de infantería disminuyó, hasta que toda la infantería se convirtió en infantería ligera en la práctica. Un rifle de asalto es un rifle de fuego selectivo que usa un cartucho intermedio y un cargador desmontable. Los rifles de asalto se utilizaron por primera vez durante la Segunda Guerra Mundial. Aunque las naciones occidentales tardaron en aceptar el concepto de rifle de asalto, a fines del siglo XX se habían convertido en el arma estándar en la mayoría de los ejércitos del mundo, reemplazando a los rifles de alta potencia y metralletas en la mayoría de los roles.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_INFANTRY_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_INFANTRY_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_INFANTRY_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_INFANTRY_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_RIFLE_CHAPTER_HISTORY_PARA_1">
+			<Text>Podría decirse que los primeros MANPATS podrían ser rifles antitanque desarrollados durante la Primera Guerra Mundial. Un rifle antitanque es un rifle diseñado para penetrar el blindaje de los vehículos, en particular los tanques. La utilidad de los rifles para este propósito se extendió desde la introducción de los tanques en la Primera Guerra Mundial y hasta la Guerra de Corea. Mientras que el blindaje de los tanques medianos y pesados ​​se volvió demasiado grueso para ser penetrado por proyectiles rígidos de rifles que podrían ser transportados por un solo soldado, los rifles antitanques continuaron usándose contra otros objetivos. Los rifles antimaterial actuales, como el Barrett M82, son un desarrollo de la tecnología de la Segunda Guerra Mundial. Aunque ya no son capaces de penetrar ni siquiera el blindaje lateral de los tanques de batalla principales, son capaces de causar daños graves a sus accesorios externos, como periscopios y ametralladoras, y de inutilizar o incluso destruir vehículos de apoyo y blindados, helicópteros, vehículos bajos - UAVs y personal que vuelan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_RIFLE_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_RIFLE_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_RIFLE_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_RIFLE_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_GUN_CHAPTER_HISTORY_PARA_1">
+			<Text>Los cañones antitanque son cañones diseñados para destruir vehículos blindados desde posiciones defensivas. Para penetrar el blindaje de los vehículos, disparan proyectiles de menor calibre desde cañones de cañón más largo para lograr una mayor velocidad de boca que las armas de artillería de campaña, muchas de las cuales son obuses. La balística de mayor velocidad y trayectoria más plana proporciona energía cinética terminal para penetrar la armadura del objetivo en movimiento / estático en un rango y ángulo de contacto determinados. Cualquier cañón de artillería de campaña con una longitud de cañón de 15 a 25 veces más larga que su calibre también podía disparar municiones antitanques, como el A-19 soviético.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_GUN_CHAPTER_HISTORY_PARA_2">
+			<Text>Alemania introdujo cañones antitanques más potentes, algunos de los cuales se encontraban en las primeras etapas de desarrollo antes de la Segunda Guerra Mundial. A finales de 1942, los alemanes tenían un excelente diseño de 50 mm de alta velocidad, mientras se enfrentaban al QF de 6 libras introducido en la Campaña del Norte de África por el Ejército Británico y posteriormente adoptado por el Ejército de los Estados Unidos. En 1943, la Wehrmacht se vio obligada a adoptar calibres aún mayores en el frente oriental, los cañones de 75 mm y los famosos 88 mm. El Ejército Rojo utilizó una variedad de cañones de 45 mm, 57 mm y 100 mm, además de desplegar cañones de uso general de 76,2 mm y 122 mm en el papel antitanque.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_GUN_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_GUN_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_GUN_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_RIFLES_CHAPTER_HISTORY_PARA_1">
+			<Text>Con la invención de rifles de repetición de disparo rápido y preciso a mediados del siglo XIX, la caballería comenzó a volverse cada vez más vulnerable. Muchos ejércitos comenzaron a usar tropas que podían luchar a caballo o a pie según las circunstancias lo dictaran. Luchar a caballo con espadas o lanzas les permitiría moverse rápidamente sin cubrirse del fuego enemigo, mientras que luchar a pie con rifles les permitía hacer uso de la cobertura y formar líneas defensivas.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_RIFLES_CHAPTER_HISTORY_PARA_2">
+			<Text>En la Segunda Guerra de los Bóers, los británicos copiaron a los Bóers y reunieron grandes fuerzas de su propia infantería montada. Entre varias formaciones ad hoc, la Imperial Yeomanry se formó a partir de voluntarios en Gran Bretaña en 1900 y 1901. Muchos de los contingentes de Australia, Canadá y Nueva Zelanda (por ejemplo, el caballo ligero australiano) eran MI (infantería montada), así como el " Unidades irregulares "(criadas localmente) como el Imperial Light Horse y el South African Light Horse.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_RIFLES_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_RIFLES_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_RIFLES_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_1">
+			<Text>El arcabuz, derivado del alemán Hakenbüchse, era una forma de arma larga que apareció en Europa durante el siglo XV. Aunque el término arcabuz se aplicó a muchas formas diferentes de armas de fuego de los siglos XV al XVII, originalmente se refería a "una pistola de mano con una proyección en forma de gancho o un asa en su superficie inferior, útil para estabilizarla contra almenas u otros objetos. al disparar ". Estas "pistolas de gancho" estaban en sus formas más tempranas como armas defensivas montadas en las murallas de las ciudades alemanas a principios del 1400, pero a finales del 1400 se habían convertido en armas de fuego portátiles. El desarrollo del arcabuz está algo ligado a la tecnología desarrollada para la ballesta, ya que sin la culata de la ballesta, el arcabuz no tendría una plataforma estable para apoyar el hombro.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXE_THROWER_CHAPTER_HISTORY_PARA_1">
+			<Text>Un guerrero o soldado armado principalmente con una o más jabalinas es un lanzador de jabalinas y normalmente era un tipo de infantería ligera. Una jabalina es una lanza ligera diseñada principalmente para ser lanzada, históricamente como un arma a distancia. La jabalina casi siempre se lanza a mano, a diferencia del arco, la flecha y la honda, que disparan proyectiles con un mecanismo. Las jabalinas eran llevadas por la infantería ligera egipcia, como arma principal, y como alternativa a una lanza o arco y flecha, generalmente junto con un escudo. Los peltastas, que por lo general actuaban como escaramuzadores, estaban armados con varias jabalinas, a menudo con correas arrojadizas para aumentar el poder de separación. A partir del siglo III a. C., la legión romana añadió un tipo de soldado escaramuzante a su formación táctica. Los Velites eran infantería ligera armada con una espada corta (el gladius o pugio), un pequeño escudo redondo y varias jabalinas pequeñas. Estas jabalinas fueron llamadas veruta (singular "verutum").</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXE_THROWER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXE_THROWER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXE_THROWER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXE_THROWER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PELTAST_CHAPTER_HISTORY_PARA_1">
+			<Text>En la guerra de la antigua Grecia, los psiloi eran infantería extremadamente ligera que actuaba como escaramuzadores y tropas de misiles. En la literatura griega y bizantina, los psiloi son tropas ligeras equipadas con misiles, capaces de luchar irregularmente en una formación suelta. Los psiloi fueron entrenados como escaramuzadores. Su tarea consistía en acosar a la falange enemiga antes del enfrentamiento, para intentar provocar el desorden y proteger sus propias líneas de los escaramuzadores enemigos. Serían enviados para ocupar un terreno imponente alrededor y dentro del campo de batalla, así como para perturbar al enemigo de cualquier forma durante su marcha, despliegue o campamento.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PELTAST_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PELTAST_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PELTAST_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PELTAST_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_1">
+			<Text>La espada larga fue el arma más versátil del campo de batalla medieval / renacentista. Era más liviano y más fácil de transportar que una pica, y se podía usar con una o dos manos, lo que hacía posible que el espadachín también llevara un escudo. En el combate cara a cara contra los piqueros, los espadachines estaban en una desventaja significativa, sufriendo muchas bajas por las armas más largas antes de que pudieran siquiera acercarse a la distancia de ataque. Sin embargo, las unidades de espadachines eran más rápidas y maniobrables que los piqueros, y si podían golpear a sus oponentes en un ataque por el flanco, los piqueros eran carne muerta.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLEMAN_CHAPTER_HISTORY_PARA_1">
+			<Text>Un rifle es un arma de fuego diseñada para dispararse desde el hombro. El interior del cañón tiene ranuras "estriadas" diseñadas para hacer girar el proyectil a medida que se dispara, lo que le da un mayor alcance y precisión que un proyectil sin rifle. Los primeros intentos de fabricar barriles estriados en Europa se produjeron en el siglo XV, pero las dificultades de fabricación impidieron su uso generalizado hasta el XIX. Los hombres de la frontera estadounidenses tenían rifles en la Guerra de Independencia de los Estados Unidos. Los escaramuzadores y exploradores británicos y estadounidenses fueron equipados con mosquetes estriados durante las guerras napoleónicas y la guerra de 1812, pero el tiempo de carga más lento de las armas las mantuvo fuera del alcance de la infantería regular durante algunos años más.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLEMAN_CHAPTER_HISTORY_PARA_2">
+			<Text>La invención de la "minieball" redujo considerablemente el tiempo de carga, y durante la Guerra Civil estadounidense los mosquetes estriados estaban en uso en todos los principales ejércitos europeos. Al final de la Guerra Civil, el mosquete estriado quedó obsoleto por el rifle de repetición de retrocarga, que tenía una velocidad de disparo de quizás un disparo por segundo (lo más rápido que se podía levantar la palanca y apretar el gatillo), en comparación con el tasa de disparo del rifle de avancarga de quizás 20 a 30 segundos por disparo para un soldado bien entrenado.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLEMAN_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLEMAN_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLEMAN_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_1">
+			<Text>El trebuchet es una máquina compuesta que aprovecha la ventaja mecánica de una palanca para lanzar un proyectil. Por lo general, son construcciones grandes (de hasta 30 metros [100 pies] de altura o más) hechas principalmente de madera, generalmente reforzadas con metal, cuero, cuerda y otros materiales. Por lo general, están inmóviles y deben ensamblarse en el sitio, posiblemente haciendo uso de madera local y solo las piezas clave se llevan con el ejército al sitio del asedio o la batalla. El trebuchet de contrapeso posterior, también conocido como el trebuchet de contrapeso, utiliza un contrapeso para balancear el brazo. Apareció en tierras cristianas y musulmanas alrededor del Mediterráneo en el siglo XII, y regresó a China a través de las conquistas mongolas en el siglo XIII.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GATLING_GUN_CHAPTER_HISTORY_PARA_1">
+			<Text>La ametralladora Gatling es una de las armas de manivela manual de disparo rápido más conocidas y un precursor de la ametralladora moderna. Inventado por Richard Gatling, es conocido por su uso por las fuerzas de la Unión durante la Guerra Civil Estadounidense en la década de 1860, que fue la primera vez que se empleó en combate. Posteriormente, se volvió a utilizar en numerosos conflictos militares, como la Guerra Boshin, la Guerra Anglo-Zulú y el asalto al Cerro San Juan durante la Guerra Hispanoamericana. También fue utilizado por milicias y la Guardia Nacional en episodios de la Gran Huelga Ferroviaria de 1877, específicamente en Pittsburgh, Pensilvania.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GATLING_GUN_CHAPTER_HISTORY_PARA_2">
+			<Text>La operación de la pistola Gatling se centró en un diseño cíclico de varios cañones que facilitó el enfriamiento y sincronizó la secuencia de disparo y recarga. Cada cañón disparó un solo tiro cuando alcanzó un cierto punto en el ciclo, después de lo cual expulsó el cartucho gastado, cargó una nueva ronda y, en el proceso, permitió que el cañón se enfriara un poco. Esta configuración permitió alcanzar tasas de fuego más altas sin que los barriles se sobrecalentaran.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GATLING_GUN_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GATLING_GUN_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GATLING_GUN_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RECON_HELICOPTER_CHAPTER_HISTORY_PARA_1">
+			<Text>Los primeros aviones de reconocimiento y observación fueron globos, seguidos de aviones ligeros, como el Taylorcraft L-2 y el Fieseler Fi 156. Cuando los primeros helicópteros militares estuvieron disponibles, su capacidad para maniobrar y permanecer en un solo lugar los hizo ideales para el reconocimiento. . Inicialmente, los helicópteros de observación se limitaban a la observación visual de la tripulación aérea, y la mayoría de los helicópteros presentaban cabinas redondeadas y bien acristaladas para una máxima visibilidad. Con el tiempo, el ojo humano se complementó con sistemas de sensores ópticos. Hoy en día, estos incluyen televisores de bajo nivel de luz y cámaras infrarrojas orientadas al futuro. A menudo, estos se montan en un soporte estabilizado junto con láseres multifunción capaces de actuar como telémetros láser y designadores de objetivos para sistemas de armas.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RECON_HELICOPTER_CHAPTER_HISTORY_PARA_2">
+			<Text>Por la naturaleza de la misión, las armas principales del helicóptero de observación son su conjunto de sensores y equipo de comunicaciones. Los primeros helicópteros de observación fueron efectivos para solicitar fuego de artillería y ataques aéreos. Con conjuntos de sensores modernos, también pueden proporcionar orientación terminal a ATGW, bombas guiadas por láser y otros misiles y municiones disparados por otros aviones armados. Los helicópteros de observación también pueden estar armados con combinaciones de cañones y cápsulas de cohetes y, a veces, misiles guiados antitanque o misiles aire-aire, pero en cantidades más pequeñas que los helicópteros de ataque más grandes. Principalmente, estas armas estaban destinadas a la lucha de contra-reconocimiento, para eliminar los recursos de reconocimiento del enemigo, pero también se pueden utilizar para proporcionar apoyo de fuego directo limitado o apoyo aéreo cercano.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RECON_HELICOPTER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RECON_HELICOPTER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RECON_HELICOPTER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<!-- Air Units -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_1">
+			<Text>Cuando estalló la Primera Guerra Mundial, varias naciones, incluidas Gran Bretaña, Francia y Alemania, habían experimentado con el concepto de bombardeo explosivo por avión. En los primeros días de la guerra, se lanzaron bombas desde todo tipo de aviones, incluidos aviones de reconocimiento y de combate. Uno de los primeros bombarderos genuinos introducidos durante la guerra, el Voisin III, fue diseñado por el fabricante de aviones francés Gabriel Voisin. Con un diseño de biplano estándar reforzado con un marco de acero, el Voisin III era capaz de transportar cargas útiles de más de 300 libras.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_1">
+			<Text>El Northrop (más tarde Northrop Grumman) B-2 Spirit, también conocido como Stealth Bomber, es un bombardero estratégico estadounidense de gran penetración, con tecnología de sigilo de baja observación diseñada para penetrar densas defensas antiaéreas; es un diseño de ala volante con una tripulación de dos. El bombardero puede desplegar armas convencionales y termonucleares, como ochenta bombas guiadas por el Sistema de Posicionamiento Global JDAM de clase de 500 lb (230 kg) (Mk 82), o dieciséis bombas nucleares B83 de 2.400 lb (1.100 kg). El B-2 es el único avión reconocido que puede transportar grandes armas de aire a tierra en una configuración sigilosa.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_1">
+			<Text>Un caza a reacción de quinta generación es una clasificación de caza a reacción utilizada en todo el mundo que abarca las tecnologías de combate desarrolladas durante la primera parte del siglo XXI. A partir de 2020, estos son los aviones más avanzados. Las características exactas de los aviones de combate de quinta generación son controvertidas y vagas, y Lockheed Martin los define como sigilosos en todos los aspectos incluso cuando están armados, radar de baja probabilidad de intercepción (LPIR), fuselajes de alto rendimiento, características avanzadas de aviónica, y sistemas informáticos altamente integrados capaces de conectarse en red con otros elementos dentro del espacio de batalla para conocer la situación.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_2">
+			<Text>A diciembre de 2018, los únicos cazas de quinta generación listos para el combate son el Lockheed Martin F-22 Raptor, que entró en servicio con la Fuerza Aérea de los Estados Unidos en 2005; el Lockheed Martin F-35 Lightning II, que entró en servicio en 2015; y el Chengdu J-20, que entró en servicio con la Fuerza Aérea del Ejército Popular de Liberación (PLAAF) en septiembre de 2017. El Shenyang FC-31 tuvo pruebas de vuelo de la versión 3.0 revisada en 2017. El HAL AMCA, Mitsubishi X-2 Shinshin, TAI TF-X y el proyecto paquistaní Azm MALE UAV se encuentran en las primeras etapas de desarrollo. El Sukhoi Su-57 está programado para su entrega a la Fuerza Aérea Rusa en 2020.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_1">
+			<Text>El avión de ataque como función se definió por su uso durante la Primera Guerra Mundial, en apoyo de las fuerzas terrestres en los campos de batalla. El apoyo en el campo de batalla generalmente se divide en apoyo aéreo cercano e interdicción aérea en el campo de batalla, requiriendo el primero una cooperación estricta y el último solo general con fuerzas de superficie amigas. aunque tales aviones también atacaron objetivos en áreas traseras. Tales misiones requerían volar donde se esperaba fuego antiaéreo ligero y operar a bajas altitudes para identificar con precisión los objetivos. Otros roles, incluidos los de bombarderos ligeros, bombarderos medios, bombarderos en picado, reconocimiento, cazas, cazabombarderos, podían realizar y realizaron ataques aéreos en los campos de batalla. Todos estos tipos podrían dañar significativamente los objetivos terrestres de un vuelo de bajo nivel, ya sea por bombardeos, ametralladoras o ambos.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_1">
+			<Text>Los Junkers Ju 87 de la Luftwaffe alemana se convirtieron prácticamente en sinónimo de apoyo aéreo cercano durante los primeros meses de la Segunda Guerra Mundial. La Fuerza Aérea del Desierto de la Commonwealth británica, dirigida por Arthur Tedder, se convirtió en la primera formación táctica aliada en enfatizar el papel de ataque, generalmente en forma de cazabombarderos monomotor Hawker Hurricane y Curtiss P-40 o "cazatanques" especializados. como el Hurricane Mk IID, armado con dos cañones Vickers S de 40 mm (en particular, el Escuadrón No. 6 de la RAF). Aproximadamente al mismo tiempo, una invasión masiva de las fuerzas del Eje había obligado a las fuerzas aéreas soviéticas a expandir rápidamente su capacidad de apoyo del ejército, como el Ilyushin Il-2 Sturmovik. Las mujeres piloto conocidas como las "Brujas Nocturnas" utilizaron un tipo biplano de entrenamiento ligero de madera obsoleto, el Polikarpov Po-2 y pequeñas bombas antipersonal en ataques de "bombardeo de acoso" que resultaron difíciles de contrarrestar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_1">
+			<Text>Las fuerzas aéreas de la era posterior a la Segunda Guerra Mundial se mostraron inicialmente reacias a desarrollar aviones a reacción de ala fija específicamente para ataques terrestres. Aunque el apoyo aéreo cercano y la interdicción siguen siendo cruciales para el campo de batalla moderno, los aviones de ataque son menos glamorosos que los cazas, y tanto los pilotos como los planificadores militares tienen un cierto desprecio bien cultivado por los "motores de lodo". El Douglas A-3 Skywarrior y el North American A-5 Vigilante fueron diseñados para roles de ataque nuclear basados ​​en portaaviones, mientras que el Grumman A-6 Intruder, Vought A-7 Corsair II, Sukhoi Su-25, A-10 Thunderbolt, Panavia Tornado, AMX, Dassault Etendard y Super Etendard y muchos otros aviones menos conocidos han sido diseñados específicamente para trabajos de ataque a tierra, ataque, apoyo cercano y anti-blindaje, con poca o ninguna capacidad aire-aire integrada en el diseño.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_1">
+			<Text>Wild Weasel es un nombre en clave dado por las Fuerzas Armadas de los Estados Unidos, específicamente la Fuerza Aérea de los EE. UU., A un avión, de cualquier tipo, equipado con misiles de búsqueda de radar y encargado de destruir los radares y las instalaciones SAM de los sistemas de defensa aérea enemigos. "El primer éxito de Wild Weasel se produjo poco después de la primera misión de Wild Weasel el 20 de diciembre de 1965, cuando los capitanes Al Lamb y Jack Donovan destruyeron un sitio durante un ataque de Rolling Thunder en la estación ferroviaria de Yen Bai, a unas 75 millas al noroeste de Hanoi". El concepto Wild Weasel fue desarrollado por la Fuerza Aérea de los Estados Unidos en 1965, después de la introducción de los misiles SAM soviéticos y su derribo de los aviones de ataque estadounidenses sobre los cielos de Vietnam del Norte. El programa fue dirigido por el general Kenneth Dempster.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_1">
+			<Text>Una bengala o bengala señuelo es una contramedida aérea infrarroja utilizada por un avión o helicóptero para contrarrestar un misil tierra-aire o un misil aire-aire de retorno por infrarrojos ("búsqueda de calor"). Las antorchas se componen comúnmente de una composición pirotécnica a base de magnesio u otro metal ardiente en caliente, con una temperatura de combustión igual o superior a la del escape del motor. El objetivo es hacer que el misil guiado por infrarrojos busque la firma de calor de la bengala en lugar de los motores del avión. Chaff, originalmente llamado Window por los británicos y Düppel por la Luftwaffe alemana de la Segunda Guerra Mundial (del suburbio de Berlín donde se desarrolló por primera vez), es una contramedida de radar en la que aviones u otros objetivos extienden una nube de pequeñas y delgadas piezas de aluminio. , fibra de vidrio metalizado o plástico, que aparece como un grupo de objetivos primarios en las pantallas de radar o inunda la pantalla con múltiples retornos.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_1">
+			<Text>Una salida (de la palabra francesa que significa salida) es un despliegue o despacho de una unidad militar, ya sea un avión, barco o tropas, desde un punto fuerte. La salida, ya sea de uno o más aviones o barcos, suele tener una misión específica. La tasa de salidas es el número de salidas que una unidad determinada puede soportar en un tiempo determinado.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_1">
+			<Text>Poco después de que se instalaran ametralladoras en los cazas biplanos, los pilotos con munición sin usar que regresaban de una misión se divertían buceando y disparando contra objetivos terrestres ... generalmente la infantería pobre y los convoyes de suministros atrapados debajo en el barro del frente occidental. En poco tiempo, los generales vieron el valor de hacerlo, por lo que el ametrallamiento se convirtió en parte de las tácticas aéreas (era menos peligroso que las peleas de perros). Los diseñadores de aviación incluso comenzaron a construir aviones dedicados al ataque terrestre, como el Junkers J.1 con dos ametralladoras orientadas hacia abajo. Cuando llegó la Segunda Guerra Mundial, la mayoría de los combatientes tenían aviones de combate dedicados a ametrallar, la mayoría montaba varias ametralladoras y algunos cohetes pequeños.Una bomba guiada (también conocida como bomba inteligente, unidad de bomba guiada o GBU) es una munición guiada de precisión diseñada para lograr un error circular probable (CEP) menor. Debido a que los efectos de daño de las armas explosivas disminuyen con la distancia de acuerdo con una ley de potencia, incluso las mejoras modestas en la precisión (y, por lo tanto, la reducción de la distancia de falla) permiten que un objetivo sea atacado de manera efectiva con menos bombas o más pequeñas. Por lo tanto, con las armas guiadas, se ponen en riesgo menos tripulaciones aéreas, se gastan menos municiones y se reducen los daños colaterales.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_1">
+			<Text>El bombardeo de alfombra, también conocido como bombardeo de saturación, es un gran bombardeo aéreo realizado de manera progresiva para infligir daño en cada parte de un área seleccionada de tierra. La frase evoca la imagen de explosiones que cubren por completo un área, de la misma manera que una alfombra cubre un piso. El bombardeo de alfombra generalmente se logra lanzando muchas bombas sin guía.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_1">
+			<Text>El bombardeo estratégico es una estrategia militar utilizada en una guerra total con el objetivo de derrotar al enemigo destruyendo su moral o su capacidad económica para producir y transportar material a los teatros de operaciones militares, o ambos. Es un ataque sistemáticamente organizado y ejecutado desde el aire que puede utilizar bombarderos estratégicos, misiles de largo o mediano alcance o aviones de combate-bombardero con armas nucleares para atacar objetivos considerados vitales para la capacidad de guerra del enemigo.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_1">
+			<Text>Un caza de superioridad aérea, también llamado caza de superioridad aérea, es un tipo de avión de combate diseñado para entrar y tomar el control del espacio aéreo enemigo como un medio de establecer un dominio completo sobre la fuerza aérea del enemigo (supremacía aérea). Los cazas de superioridad aérea están diseñados principalmente para atacar con eficacia a los cazas enemigos, más que otros tipos de aviones, aunque algunos pueden tener un papel secundario para los ataques aire-tierra.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_1">
+			<Text>Un vehículo aéreo no tripulado (UAV), comúnmente conocido como dron, es un avión sin un piloto humano a bordo. Los UAV son un componente de un sistema de aeronaves no tripuladas (UAS); que incluyen un UAV, un controlador en tierra y un sistema de comunicaciones entre los dos. El vuelo de los UAV puede operar con varios grados de autonomía: ya sea bajo control remoto por un operador humano o de forma autónoma mediante computadoras a bordo.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<!-- Naval Units -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_1">
+			<Text>Los asaltantes mercantes son barcos de asalto comercial armados que se disfrazan de buques mercantes no combatientes. El asalto comercial es una forma de guerra naval utilizada para destruir o interrumpir la logística del enemigo en mar abierto atacando su transporte marítimo mercante, en lugar de involucrar a sus combatientes o imponiendo un bloqueo contra ellos. También se conoce, en francés, como guerre de course (literalmente, "guerra de persecución") y, en alemán, Handelskrieg ("guerra comercial"), por las naciones más comprometidas históricamente con ella como estrategia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_1">
+			<Text>Una corbeta es un pequeño buque de guerra. Es tradicionalmente la clase de buque más pequeña que se considera un buque de guerra adecuado (o "calificado"). La clase de buque de guerra por encima de la corbeta es la de la fragata, mientras que la clase de abajo fue históricamente la de la balandra de guerra. La palabra "corbeta" se encuentra por primera vez en francés medio, un diminutivo de la palabra holandesa corf, que significa un barco pequeño, del latín corbis, que significa "cesta". Durante la Era de la Vela, las corbetas eran uno de los muchos tipos de buques de guerra más pequeños que una fragata y con una sola cubierta de armas. Estaban muy estrechamente relacionados con los balandros de guerra. El papel de la corbeta consistía principalmente en patrullar costeras, librar guerras menores, apoyar a grandes flotas o participar en misiones de mostrar la bandera.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_1">
+			<Text>Un destructor de misiles guiados es un destructor diseñado para lanzar misiles guiados. Muchos también están equipados para realizar operaciones antisubmarinas, antiaéreas y antisuperficie. La designación estándar de la OTAN para estos buques es DDG. Las naciones varían en el uso de la designación del destructor D en la numeración de los banderines del casco, ya sea prefijando o eliminándolo por completo. La Marina de los Estados Unidos ha adoptado la clasificación DDG en el sistema de clasificación de cascos estadounidense. Además de los cañones, un destructor de misiles guiados suele estar equipado con dos cargadores de misiles grandes, generalmente en celdas de lanzamiento vertical. Algunos destructores de misiles guiados contienen potentes sistemas de radar, como el Aegis Combat System de Estados Unidos, y pueden adoptarse para su uso en una función de defensa antimisiles o de misiles balísticos. Esto es especialmente cierto en el caso de las armadas que ya no operan cruceros, ya que se deben adoptar otras embarcaciones para llenar el vacío.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_1">
+			<Text>Supercarrier es un término descriptivo no oficial para el tipo más grande de portaaviones, generalmente aquellos que desplazan más de 70,000 toneladas cortas (64,000 toneladas métricas). Los supercarriers son los buques de guerra más grandes jamás construidos, más grandes que la clase de acorazados más grande establecida por cualquier país. La Armada de los Estados Unidos tiene diez superportadores activos a partir de 2015, mientras que el Reino Unido tendrá dos: los portaaviones de clase Queen Elizabeth Queen Elizabeth y el segundo Prince of Wales que se están construyendo actualmente y se espera que entren en servicio en 2018. Los rusos tienen el Kuznetsov, que es un crucero de aviones (crucero de misiles que transportan aviones pesados ​​(TAVKR) en la clasificación rusa) que sirve como buque insignia de la Armada rusa.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_1">
+			<Text>El Galleass fue una clase de buque de guerra naval que ganó popularidad durante el siglo XVI, cuando los diseños basados ​​en la cocina tradicional se modificaron para incluir armamentos más pesados. Una galera típica comenzó su vida como un barco mercante impulsado por remos, que luego se actualizó para incluir mástiles para velas. Con dos formas de propulsión disponibles, el diseño de la galera permitió que la nave mantuviera gran parte de la reconocida velocidad de la cocina tradicional, al tiempo que llevaba armas pesadas para defenderse de los posibles atacantes.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_1">
+			<Text>El crucero blindado era un tipo de buque de guerra de finales del siglo XIX y principios del XX. Fue diseñado como otros tipos de cruceros para operar como un buque de guerra independiente de largo alcance, capaz de derrotar a cualquier barco, aparte de un acorazado, y lo suficientemente rápido como para dejar atrás a cualquier acorazado que encontrara. De tamaño variable, se distinguía de otros tipos de cruceros por su armadura de cinturón: hierro grueso (o más tarde acero) enchapado en gran parte del casco para proteger al barco de los proyectiles de proyectiles, muy parecido al de los acorazados. En la década de 1890, los cruceros habían abandonado las velas y adquirieron una apariencia moderna. Durante muchas décadas, la tecnología naval no había avanzado lo suficiente como para que los diseñadores produjeran un crucero que combinara un cinturón blindado con el largo alcance y la alta velocidad necesarios para cumplir su misión. A menudo era posible construir cruceros que eran más rápidos y mejores en todos los sentidos utilizando este tipo de barco, que dependía de una cubierta blindada más ligera para proteger las partes vitales del barco; sin embargo, a fines de la década de 1880, el desarrollo de los cañones de fuego rápido y los proyectiles de alto explosivo hizo que la reintroducción del blindaje lateral fuera una necesidad. La invención de la armadura endurecida a mediados de la década de 1890 ofreció una protección eficaz con menos peso que antes.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_1">
+			<Text>Un crucero de batalla, o crucero de batalla, era un barco capital construido en la primera mitad del siglo XX. Eran similares en tamaño, costo y armamento a los acorazados, pero generalmente llevaban menos armadura para obtener velocidades más rápidas. Los primeros cruceros de batalla fueron diseñados en el Reino Unido en la primera década del siglo, como un desarrollo del crucero blindado, al mismo tiempo que el dreadnought sucedió al acorazado pre-dreadnought. El objetivo del diseño era dejar atrás a cualquier barco con armamento similar y perseguir a cualquier barco con menor armamento; estaban destinados a cazar cruceros blindados más lentos y viejos y destruirlos con disparos pesados ​​mientras evitaban el combate con los acorazados más poderosos pero más lentos. Sin embargo, a medida que se construían más y más cruceros de batalla, se usaban cada vez más junto con los acorazados mejor protegidos.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CARRACK_CHAPTER_HISTORY_PARA_1">
+			<Text>Una carraca era un velero oceánico de tres o cuatro mástiles que se desarrolló en los siglos XIV al XV en Europa (principalmente Portugal). Evolucionado a partir del engranaje de un solo mástil, la carrack se utilizó por primera vez para el comercio europeo desde el Mediterráneo hasta el Báltico y rápidamente encontró uso con la riqueza recién descubierta del comercio transatlántico entre Europa, África y luego las Américas. En su forma más desarrollada, la carraca era un barco oceánico construido con carvel: lo suficientemente grande como para ser estable en mares gruesos y para una gran carga y las provisiones necesarias para viajes muy largos. Las últimas carracas tenían aparejo cuadrado en el trinquete y el palo mayor y aparejo latino en el mástil de mesana. Tenían una popa alta y redondeada con un gran castillo de popa, un castillo de proa y un bauprés en la popa.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CARRACK_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CARRACK_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CARRACK_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CARRACK_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_1">
+			<Text>Un buque de línea era un tipo de buque de guerra naval construido desde el siglo XVII hasta mediados del siglo XIX para participar en la táctica naval conocida como línea de batalla, en la que dos columnas de buques de guerra opuestos maniobrarían para llevar el mayor peso. de potencia de fuego de costado para soportar. Dado que estos combates los ganaban casi invariablemente los barcos más pesados ​​que llevaban los cañones más poderosos, la progresión natural fue construir barcos de vela que fueran los más grandes y poderosos de su tiempo. Desde finales de la década de 1840, la introducción de la energía a vapor trajo una menor dependencia del viento en la batalla y condujo a la construcción de barcos de línea con tornillos y casco de madera; varios barcos de pura vela se convirtieron a este mecanismo de propulsión. Sin embargo, la introducción de la fragata acorazada en 1859 condujo rápidamente al declive de los barcos de línea asistidos por vapor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_1">
+			<Text>Los acorazados anteriores al acorazado eran acorazados de alta mar construidos entre mediados y finales de la década de 1880 y 1905, antes del lanzamiento del HMS Dreadnought. Los pre-acorazados reemplazaron a los acorazados acorazados de las décadas de 1870 y 1880. Construidos en acero y protegidos por armaduras de acero endurecido, los acorazados anteriores al acorazado llevaban una batería principal de cañones muy pesados ​​en barbettes (abiertos o con cañoneras blindadas) apoyados por una o más baterías secundarias de armas más ligeras. Fueron propulsados ​​por máquinas de vapor de triple expansión alimentadas con carbón. En contraste con el desarrollo caótico de los buques de guerra acorazados en las décadas anteriores, la década de 1890 vio a las armadas de todo el mundo comenzar a construir acorazados con un diseño común, ya que docenas de barcos seguían esencialmente el diseño de la clase Majestic británica. La similitud en la apariencia de los acorazados en la década de 1890 fue subrayada por el creciente número de barcos que se estaban construyendo.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_1">
+			<Text>Un submarino de ataque o submarino cazador-asesino es un submarino diseñado específicamente con el propósito de atacar y hundir otros submarinos, combatientes de superficie y buques mercantes. En las armadas soviética y rusa se les llamaba y se les llama "submarinos polivalentes". También se utilizan para proteger a los combatientes de superficie amigos y a los submarinos de misiles. Algunos submarinos de ataque también están armados con misiles de crucero montados en tubos de lanzamiento verticales, lo que aumenta el alcance de sus misiones potenciales para incluir objetivos terrestres. Los submarinos de ataque pueden ser de propulsión nuclear o diesel-eléctrica ("convencionalmente"). En el sistema de nombres de la Marina de los Estados Unidos, y en el sistema equivalente de la OTAN (STANAG 1166), los submarinos de ataque de propulsión nuclear se conocen como SSN y sus predecesores diésel-eléctricos eran SSK.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_1">
+			<Text>Los infantes de marina, también conocidos como cuerpo de marines o infantería naval, son típicamente una fuerza de infantería que se especializa en el apoyo de operaciones navales y militares en el mar y en tierra, así como en la ejecución de sus propias operaciones. En la mayoría de los países, la fuerza marítima es una parte integral de la armada, pero también puede estar bajo el mando del ejército como las Troupes de marine (Marines franceses) y la Brigada Givati ​​(Marines israelíes), o formar una rama de servicio independiente como la Cuerpo de Marines de los Estados Unidos y Royal Marines (aunque el Cuerpo de Marines de los Estados Unidos depende del Departamento de Marina de los Estados Unidos y los Royal Marines están bajo el Servicio Naval de Su Majestad). Históricamente, las tareas llevadas a cabo por los marines han incluido: ayudar a mantener la disciplina y el orden a bordo del barco (lo que refleja la naturaleza presionada de la compañía de los barcos y el riesgo de motín), el abordaje de los barcos durante el combate o la captura de barcos premiados, y proporcionar mano de obra para incursiones en tierra en apoyo de los objetivos navales. Las fuerzas marinas evolucionaron para especializarse en las habilidades y capacidades necesarias para la guerra anfibia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_1">
+			<Text>Los infantes de marina, también conocidos como cuerpo de marines o infantería naval, son típicamente una fuerza de infantería que se especializa en el apoyo de operaciones navales y militares en el mar y en tierra, así como en la ejecución de sus propias operaciones. En la mayoría de los países, la fuerza marítima es una parte integral de la armada, pero también puede estar bajo el mando del ejército como las Troupes de marine (Marines franceses) y la Brigada Givati ​​(Marines israelíes), o formar una rama de servicio independiente como la Cuerpo de Marines de los Estados Unidos y Royal Marines (aunque el Cuerpo de Marines de los Estados Unidos depende del Departamento de Marina de los Estados Unidos y los Royal Marines están bajo el Servicio Naval de Su Majestad). Históricamente, las tareas llevadas a cabo por los marines han incluido: ayudar a mantener la disciplina y el orden a bordo del barco (lo que refleja la naturaleza presionada de la compañía de los barcos y el riesgo de motín), el abordaje de los barcos durante el combate o la captura de barcos premiados, y proporcionar mano de obra para incursiones en tierra en apoyo de los objetivos navales. Las fuerzas marinas evolucionaron para especializarse en las habilidades y capacidades necesarias para la guerra anfibia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_1">
+			<Text>Los infantes de marina, también conocidos como cuerpo de marines o infantería naval, son típicamente una fuerza de infantería que se especializa en el apoyo de operaciones navales y militares en el mar y en tierra, así como en la ejecución de sus propias operaciones. En la mayoría de los países, la fuerza marítima es una parte integral de la armada, pero también puede estar bajo el mando del ejército como las Troupes de marine (Marines franceses) y la Brigada Givati ​​(Marines israelíes), o formar una rama de servicio independiente como la Cuerpo de Marines de los Estados Unidos y Royal Marines (aunque el Cuerpo de Marines de los Estados Unidos depende del Departamento de Marina de los Estados Unidos y los Royal Marines están bajo el Servicio Naval de Su Majestad). Históricamente, las tareas llevadas a cabo por los marines han incluido: ayudar a mantener la disciplina y el orden a bordo del barco (lo que refleja la naturaleza presionada de la compañía de los barcos y el riesgo de motín), el abordaje de los barcos durante el combate o la captura de barcos premiados, y proporcionar mano de obra para incursiones en tierra en apoyo de los objetivos navales. Las fuerzas marinas evolucionaron para especializarse en las habilidades y capacidades necesarias para la guerra anfibia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_1">
+			<Text>Una forma modificada de la cocina tradicional, el Dromon fue una parte integral de la armada bizantina durante el reinado del imperio. Con potencia de remo y vela, el Dromon era muy maniobrable y ágil, pero también peligrosamente equipado para la batalla. Mediante el uso del fuego griego, un precursor del napalm moderno, los bizantinos utilizaron una forma temprana del lanzallamas para infundir miedo en los corazones de cualquiera que se les opusiera en el mar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_1">
+			<Text>En la terminología naval de finales del siglo XIX, las lanchas torpederas eran una forma de cañonera armada con torpedos y diseñada para cazar y destruir botes torpederos más pequeños. A fines de la década de 1890, los cañoneros torpederos fueron reemplazados por sus contemporáneos más exitosos, el destructor. Varias lanchas de torpedos, el prototipo de serpiente de cascabel de 1886 seguido de la clase Grasshopper (de 3 buques), la clase Sharpshooter (13 buques), la clase Alarm (11 buques) y la clase Dryad (5 buques), se construyeron para el Royal Navy durante las décadas de 1880 y 1890; buques similares también fueron construidos o adquiridos de otro modo por varias naciones europeas y Japón. Esencialmente cruceros muy pequeños, las lanchas torpederas típicamente estaban equipadas con calderas de locomotoras y estaban equipadas con tubos de torpedos y un armamento de armas adecuado, destinado a cazar botes torpederos enemigos más pequeños.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_1">
+			<Text>Un crucero ligero es un tipo de buque de guerra de tamaño pequeño o mediano. El término es una abreviatura de la frase "crucero blindado ligero", que describe un barco pequeño que lleva armadura de la misma manera que un crucero blindado: un cinturón y una cubierta de protección. Antes de esto, los cruceros más pequeños habían sido del modelo de crucero protegido, y solo poseían cubiertas blindadas. Aunque más ligeros y más pequeños que otros barcos contemporáneos, seguían siendo verdaderos cruceros, conservando el radio de acción extendido y la autosuficiencia para actuar de forma independiente en todo el mundo. A lo largo de su historia, se desempeñaron en una variedad de roles, principalmente como escoltas de convoyes y buques de mando de destructores, pero también como exploradores y buques de apoyo de flota para las flotas de batalla.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_1">
+			<Text>El acorazado fue el tipo predominante de acorazado a principios del siglo XX. El primero de su tipo, el acorazado de la Royal Navy causó una impresión tan fuerte en la mente de la gente cuando se lanzó en 1906 que los acorazados similares construidos posteriormente se denominaron genéricamente "acorazados", y los acorazados anteriores se conocieron como "pre-acorazados". El diseño del Dreadnought tenía dos características revolucionarias: un esquema de armamento de "cañones grandes", con cañones de mayor calibre que los barcos anteriores, y propulsión por turbina de vapor. A medida que los acorazados se convirtieron en un símbolo del poder nacional, la llegada de estos nuevos buques de guerra fue un catalizador crucial en la intensificación de la carrera armamentista naval entre el Reino Unido y Alemania. Con el lanzamiento de un solo barco, Dreadnought, las escalas del poder naval se restablecieron durante la noche. Como resultado, surgieron razas de acorazados en todo el mundo, incluso en América del Sur, durante el período previo a la Primera Guerra Mundial.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_1">
+			<Text>Un cañón de riel es un dispositivo que usa fuerza electromagnética para lanzar proyectiles de alta velocidad, por medio de una armadura deslizante que se acelera a lo largo de un par de rieles conductores. [2] Por lo general, se construye como un arma, y ​​el proyectil normalmente no contiene explosivos, confiando en la alta velocidad del proyectil para infligir daño. El cañón de riel utiliza un par de conductores paralelos, o rieles, a lo largo de los cuales se acelera una armadura deslizante por los efectos electromagnéticos de una corriente que fluye por un riel, hacia la armadura y luego de regreso a lo largo del otro riel.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_1">
+			<Text>Un engranaje es un tipo de barco que apareció por primera vez en el siglo X y fue ampliamente utilizado a partir del siglo XII. Los dientes estaban construidos con clinker, generalmente de roble, que era una madera abundante en la región báltica de Prusia. Este buque estaba equipado con un solo mástil y una sola vela de aparejo cuadrado. Estos barcos se asociaron principalmente con el comercio marítimo en la Europa medieval, especialmente la Liga Hanseática, particularmente en la región del Mar Báltico. Tenían entre 15 y 25 metros (49 a 82 pies) de longitud con una manga de 5 a 8 metros (16 a 26 pies), y los barcos de cremallera más grandes podían transportar hasta 200 toneladas.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_FRIGATE_CHAPTER_HISTORY_PARA_1">
+			<Text>La introducción del misil tierra-aire después de la Segunda Guerra Mundial hizo que los barcos relativamente pequeños fueran efectivos para la guerra antiaérea: la "fragata de misiles guiados". En la USN, estos buques se llamaban "escoltas oceánicas" y se designaban "DE" o "DEG" hasta 1975, un vestigio de la escolta de destructores de la Segunda Guerra Mundial o "DE". La Royal Canadian Navy y la Royal Navy británica mantuvieron el uso del término "fragata"; Asimismo, la Armada francesa se refiere a barcos equipados con misiles, hasta barcos del tamaño de un crucero (clases Suffren, Tourville y Horizon), con el nombre de "frégate", mientras que las unidades más pequeñas se denominan aviso. La Armada soviética utilizó el término "barco de guardia" (сторожевой корабль).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_FRIGATE_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_FRIGATE_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_FRIGATE_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_FRIGATE_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+	</BaseGameText>
+</GameData>

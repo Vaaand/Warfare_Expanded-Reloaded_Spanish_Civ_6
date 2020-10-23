@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- Land Units -->
+		<Row Tag="LOC_UNIT_ARMORED_INFANTRY_NAME">
+			<Text>Infantería Blindada</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARMORED_INFANTRY_DESCRIPTION">
+			<Text>Unidad de infantería montada de la Era Atómica.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COMPOSITE_BOWMAN_NAME">
+			<Text>Arco Compuesto</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COMPOSITE_BOWMAN_DESCRIPTION">
+			<Text>Unidad a distancia de la Época Clásica</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_BOWMAN">
+			<Text>Ten 3 Arcos Compuestos.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BOWMAN">
+			<Text>Investiga Maquinaria para mejorar el rendimiento de tu considerable contingente de tropas a distancia.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CULVERIN_NAME">
+			<Text>Culebrina</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CULVERIN_DESCRIPTION">
+			<Text>Unidad a distancia del Renacimiento.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIELD_GUN_NAME">
+			<Text>Cañón de Campaña</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIELD_GUN_DESCRIPTION">
+			<Text>Unidad a distancia de la Era Moderna.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HEAVY_INFANTRY_NAME">
+			<Text>Infantería Pesada</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HEAVY_INFANTRY_DESCRIPTION">
+			<Text>Unidad anticaballería de la Época Clásica.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARMORED_HORSEMAN_NAME">
+			<Text>Jinete Blindado</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARMORED_HORSEMAN_DESCRIPTION">
+			<Text>Fuerte unidad de Caballería Pesada de la Época Clásica.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_REITER_NAME">
+			<Text>Arcabucero a Caballo Pesado</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_REITER_DESCRIPTION">
+			<Text>Fuerte unidad de Caballería Pesada del Renacimiento.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LANDSHIP_NAME">
+			<Text>Carro de Combate</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LANDSHIP_DESCRIPTION">
+			<Text>Fuerte unidad de Caballería Pesada de la Era Moderna.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RIFLED_CANNON_NAME">
+			<Text>Cañón Pesado</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RIFLED_CANNON_DESCRIPTION">
+			<Text>Unidad de bombardeo de la Era Industrial, ideal para atacar ciudades. No puede moverse ni atacar en el mismo turno a menos que comience el turno con más de 2 movimientos (por ejemplo, gran general con logística), haya ganado el ascenso Tripulación Experta o en cualquier momento si el denominador es mayor que el movimiento base (por ejemplo, cuando una unidad de asedio comienza con 2 movimientos, se mueve una vez, y luego viene un gran general o se adopta la logística, puede bombardear).</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HEAVY_HOWITZER_NAME">
+			<Text>Obús Pesado</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HEAVY_HOWITZER_DESCRIPTION">
+			<Text>Unidad de bombardeo de la Era Atómica, ideal para atacar ciudades. No puede moverse ni atacar en el mismo turno a menos que comience el turno con más de 3 movimientos (por ejemplo, gran general con logística), haya ganado el ascenso Tripulación Experta o en cualquier momento si el denominador es mayor que el movimiento base (por ejemplo, cuando una unidad de asedio comienza con 2 movimientos, se mueve una vez, y luego viene un gran general o se adopta la logística, puede bombardear).</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LINE_INFANTRY_NAME">
+			<Text>Infantería de Línea</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LINE_INFANTRY_DESCRIPTION">
+			<Text>Unidad anticaballería de la Era Industrial.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WW1_INFANTRY_NAME">
+			<Text>Infantería Temprana</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WW1_INFANTRY_DESCRIPTION">
+			<Text>Unidad de cuerpo a cuerpo de la Era Moderna.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIELD_HOWITZER_NAME">
+			<Text>Obús de Campo</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIELD_HOWITZER_DESCRIPTION">
+			<Text>Unidad a distancia de la Era Atómica.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIELD_ARTILLERY_NAME">
+			<Text>Artillería de Campo</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIELD_ARTILLERY_DESCRIPTION">
+			<Text>Unidad a distancia de la Era de la Información.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_STRADIOT_NAME">
+			<Text>Estradiot</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_STRADIOT_DESCRIPTION">
+			<Text>Unidad de caballería ligera de la era del Renacimiento de rápido movimiento.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_INFANTRY_NAME">
+			<Text>Infantería Moderna</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_INFANTRY_DESCRIPTION">
+			<Text>Unidad de cuerpo a cuerpo de la Era de la Información.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ANTI_TANK_RIFLE_NAME">
+			<Text>Fusil Antitanque</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ANTI_TANK_RIFLE_DESCRIPTION">
+			<Text>Unidad anticaballería de la Era Moderna.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ANTI_TANK_GUN_NAME">
+			<Text>Artillería Antitanque</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ANTI_TANK_GUN_DESCRIPTION">
+			<Text>Unidad anticaballería de la Era Atómica.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MOUNTED_RIFLES_NAME">
+			<Text>Infantería Montada</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MOUNTED_RIFLES_DESCRIPTION">
+			<Text>Veloz unidad de Caballería de la Era Moderna.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARQUEBUSIER_NAME">
+			<Text>Arcabucero</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARQUEBUSIER_DESCRIPTION">
+			<Text>Unidad de apoyo del Renacimiento.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AXE_THROWER_NAME">
+			<Text>Jabalinero</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AXE_THROWER_DESCRIPTION">
+			<Text>Unidad de apoyo de la Edad Media.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PELTAST_NAME">
+			<Text>Hostigador</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PELTAST_DESCRIPTION">
+			<Text>Unidad de apoyo de la Época Clásica.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LONGSWORDSMAN_NAME">
+			<Text>Espadachín</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION">
+			<Text>Unidad cuerpo a cuerpo de la Edad Media.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RIFLEMAN_NAME">
+			<Text>Fusilero</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RIFLEMAN_DESCRIPTION">
+			<Text>Unidad cuerpo a cuerpo de la Era Industrial.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TREBUCHET_NAME">
+			<Text>Trabuquete</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TREBUCHET_DESCRIPTION">
+			<Text>Unidad de asedio de la Edad Medieval.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GATLING_GUN_NAME">
+			<Text>Ametralladora Gatling</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GATLING_GUN_DESCRIPTION">
+			<Text>Unidad de apoyo de la Era Industrial. Bonus [ICON_Strength] de Fuerza de combate contra unidades cuerpo a cuerpo, anticaballería y caballería ligera. No puede moverse y atacar en el mismo turno a menos que se haya ganado la promoción de Fuego y Maniobra.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RECON_HELICOPTER_NAME">
+			<Text>Helicóptero de observación</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RECON_HELICOPTER_DESCRIPTION">
+			<Text>Unidad de apoyo de la era atómica. Agrega +1 [ICON_Range] al Alcance y +5 [ICON_Bombard] a la Fuerza de bombardeo a las unidades de clase Asedio dentro de 1 hexagono.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PIKE_AND_SHOT_NAME">
+			<Text>Lucio y tiro</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PIKE_AND_SHOT_DESCRIPTION">
+			<Text>Los mosqueteros reciben +5 [ICON_Strength] a la fuerza cuando se defienden contra un ataque de caballería y junto a un piquero.</Text>
+		</Row>
+		<Row Tag="LOC_PIKE_AND_SHOT_VS_CAV_DEFENSIVE_BONUS_DESCRIPTION">
+			<Text>Lucio y tiro, + {1_Amount} a la fuerza defendiendo contra Caballería y adyacente a un Piquero.</Text>
+		</Row>
+		<!-- Air Units -->
+		<Row Tag="LOC_UNIT_WW1_BOMBER_NAME">
+			<Text>Bombardero Temprano</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WW1_BOMBER_DESCRIPTION">
+			<Text>Primera unidad de bombardeo aéreo, disponible en la Era Moderna.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_STEALTH_BOMBER_NAME">
+			<Text>Bombardero Furtivo</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_STEALTH_BOMBER_DESCRIPTION">
+			<Text>Unidad de bombardeo aéreo de la Era de la Información con capacidad de sigilo.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_STEALTH_FIGHTER_NAME">
+			<Text>Caza Furtivo</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_STEALTH_FIGHTER_DESCRIPTION">
+			<Text>Unidad aérea de combate de la Era de la Información con capacidad de sigilo..</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WW1_GROUND_ATTACK_NAME">
+			<Text>Avión Aire-Tierra Temprano</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WW1_GROUND_ATTACK_DESCRIPTION">
+			<Text>Primera unidad aérea de ataque aire-tierra, disponible en la Era Moderna.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GROUND_ATTACK_NAME">
+			<Text>Avión Aire-Tierra</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GROUND_ATTACK_DESCRIPTION">
+			<Text>Unidad aérea de ataque aire-tierra de la Era Atómica.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JET_GROUND_ATTACK_NAME">
+			<Text>Avión Aire-Tierra Avanzado</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JET_GROUND_ATTACK_DESCRIPTION">
+			<Text>Unidad aérea de ataque aire-tierra de la Era de la Información.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_AIR_ATTACK_NAME">
+			<Text>Ataque aéreo Aire-Tierra</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_WILD_WEASEL_NAME">
+			<Text>Comadreja Salvaje</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_WILD_WEASEL_DESCRIPTION">
+			<Text>+10 [ICON_Strength] a la Fuerza de combate al defenderse contra unidades antiaéreas.[NEWLINE]+10 [ICON_Strength] a la Fuerza de combate al defenderse contra unidades antiaéreas en las casillas que defienden.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COUNTERMEASURES_NAME">
+			<Text>Contramedidas</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COUNTERMEASURES_DESCRIPTION">
+			<Text>+7 [ICON_Strength] a la Fuerza de combate contra unidades aéreas de combate.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AIR_SORTIES_NAME">
+			<Text>Incursión Aérea</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AIR_SORTIES_DESCRIPTION">
+			<Text>Puede curarse después de atacar.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GUIDED_BOMBS_NAME">
+			<Text>Misil Teledirigido</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GUIDED_BOMBS_DESCRIPTION">
+			<Text>+10 [ICON_Ranged] a la Fuerza aérea de combate contra unidades fortificadas.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_STRATEGIC_BOMBING_NAME">
+			<Text>Bombardeo Estratégico</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_STRATEGIC_BOMBING_DESCRIPTION">
+			<Text>+12 [ICON_Bombard] a la Fuerza aérea de combate contra ciudades y campamentos.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CARPET_BOMBING_NAME">
+			<Text>Bombardeo de Área</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CARPET_BOMBING_DESCRIPTION">
+			<Text>+15 [ICON_Bombard] a la Fuerza aérea de combate contra unidades de tierra.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_NAME">
+			<Text>Superioridad Aérea</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_DESCRIPTION">
+			<Text>+7 [ICON_Strength] a la Fuerza de combate contra unidades aéreas de ataque aire-tierra.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_UAV_NAME">
+			<Text>Vehículo Aéreo No Tripulado (VANT)</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_UAV_DESCRIPTION">
+			<Text>Dron de ataque de la Era de la Información.</Text>
+		</Row>
+		<!-- Naval Units -->
+		<Row Tag="LOC_UNIT_RAIDER_NAME">
+			<Text>Incursor Mercantil</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RAIDER_DESCRIPTION">
+			<Text>Unidad naval de incursión a distancia de la Era Industrial.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CORVETTE_NAME">
+			<Text>Corbeta</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CORVETTE_DESCRIPTION">
+			<Text>Veloz unidad naval de ataque cuerpo a cuerpo del Renacimiento.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MISSILE_DESTROYER_NAME">
+			<Text>Destructor de Misiles Guiados</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MISSILE_DESTROYER_DESCRIPTION">
+			<Text>Unidad naval de ataque cuerpo a cuerpo más fuerte. Reveala submarinos cuando se encuentran en la visual.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SUPERCARRIER_NAME">
+			<Text>Portaaviones Nuclear</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SUPERCARRIER_DESCRIPTION">
+			<Text>Unidad naval cuerpo a cuerpo de la Era de la Información que puede transportar unidades aéreas.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GALLEASS_NAME">
+			<Text>Galeaza</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GALLEASS_DESCRIPTION">
+			<Text>Unidad naval a distancia de la Edad Media.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARMORED_CRUISER_NAME">
+			<Text>Crucero Blindado</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARMORED_CRUISER_DESCRIPTION">
+			<Text>>Unidad naval a distancia de la Era Industrial.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BATTLECRUISER_NAME">
+			<Text>Crucero de Batalla</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BATTLECRUISER_DESCRIPTION">
+			<Text>Unidad naval a distancia de la Era Moderna.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CARRACK_NAME">
+			<Text>Galeón</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CARRACK_DESCRIPTION">
+			<Text>Unidad de bombardeo naval de la Época Medieval.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SHIP_OF_THE_LINE_NAME">
+			<Text>Buque de Línea</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SHIP_OF_THE_LINE_DESCRIPTION">
+			<Text>Unidad de bombardeo naval del Renacimiento.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PRE_DREADNOUGHT_NAME">
+			<Text>Buque de Guerra</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PRE_DREADNOUGHT_DESCRIPTION">
+			<Text>Unidad de bombardeo naval de la Era Industrial.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAVAL_BOMBARD_NAME">
+			<Text>Bombardeo Naval</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAVAL_BOMBARD_DESCRIPTION">
+			<Text>Cancela la penalización de distancia a tierra.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAVAL_BOMBARD_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>Aumenta la Fuerza de bombardeo en +17 para las unidades de bombardeo naval.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ATTACK_SUBMARINE_NAME">
+			<Text>Submarino Asesino-Cazador</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ATTACK_SUBMARINE_DESCRIPTION">
+			<Text>Unidad naval cuerpo a cuerpo de la Era de la Información. Solo puede ser visto cuando se está adyacente a él. Tiene +15 [ICON_Strength] de bonus de ataque contra asaltantes navales y +7 [ICON_Strength] contra otros buques de guerra.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INDUSTRIAL_MARINE_NAME">
+			<Text>Infantería Naval</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INDUSTRIAL_MARINE_DESCRIPTION">
+			<Text>Unidad de infantería naval anfibia mecanizada de la Era Industrial. Especializada en asaltos desde el mar.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WW2_MARINE_NAME">
+			<Text>Marine</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WW2_MARINE_DESCRIPTION">
+			<Text>Unidad de infantería naval anfibia mecanizada de la Era Atómica. Especializada en asaltos desde el mar.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_MARINE_NAME">
+			<Text>Marine Moderno</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_MARINE_DESCRIPTION">
+			<Text>Unidad de infantería naval anfibia mecanizada de la Era de la Información. Especializada en asaltos desde el mar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MARINE_NAME">
+			<Text>Entrenamiento Anfibio</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MARINE_DESCRIPTION">
+			<Text>La infantería naval anfibia no sufre penalización de [ICON_Strength] Fuerza de combate y [ICON_Movement] Movimiento cuando ataca desde ríos o el mar. +10 [ICON_Strength] Fuerza de combate cuando lucha en casillas costeras.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_NAVAL_BOMBARD_NAME">
+			<Text>Bombardeo Naval</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_NAVAL_NAME">
+			<Text>Habilita el bombardeo naval contra unidades navales</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_NAVAL_DESCRIPTION">
+			<Text>+10 [ICON_Bombard] de Fuerza a distancia contra unidades navales.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_NAME">
+			<Text>Movimiento Extra de Bombardeo Naval</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Rango de Movimiento.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_LAND_NAME">
+			<Text>Bombardeo Naval Contra Unidades Terrestres</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_LAND_DESCRIPTION">
+			<Text>+10 [ICON_Bombard] de Fuerza a distancia contra unidades terrestres.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_DISTRICT_NAME">
+			<Text>Bombardeo Naval Contra Distritos</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_DISTRICT_DESCRIPTION">
+			<Text>+10 [ICON_Bombard] de Fuerza a distancia contra ciudades y campamentos.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_NAME">
+			<Text>Bombardeo Naval Curación en Campaña</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_DESCRIPTION">
+			<Text>Curación fuera de territorio amistoso.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_AIR_NAME">
+			<Text>Sensores de Proximidad</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_AIR_DESCRIPTION">
+			<Text>+7 [ICON_Strength] de Fuerza de combate al defenderse contra ataques aéreos.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_NAME">
+			<Text>Bombardeo Naval Repliegue</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_DESCRIPTION">
+			<Text>Puede moverse después de atacar.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_MARINE_NAME">
+			<Text>Marines</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_RIVER_PATROL_NAME">
+			<Text>Patrulla Fluvial</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_RIVER_PATROL_DESCRIPTION">
+			<Text>+7 [ICON_Strength] de Fuerza de combate en pantanos y adyancente a los ríos.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COAST_GUARD_NAME">
+			<Text>Reconocimiento Anfibio</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COAST_GUARD_DESCRIPTION">
+			<Text>Puede escalar paredes de acantilado.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EXPEDITIONARY_FORCE_NAME">
+			<Text>Fuerza Expedicionaria</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EXPEDITIONARY_FORCE_DESCRIPTION">
+			<Text>+7 [ICON_Strength] de Fuerza de combate en territorio extranjero o enemigo.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_RESERVE_FORCES_NAME">
+			<Text>Reservistas</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_RESERVE_FORCES_DESCRIPTION">
+			<Text>+7 [ICON_Strength] de Fuerza de combate en territorio amistoso.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COMBINED_ARMS_NAME">
+			<Text>Fuerzas Combinadas</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COMBINED_ARMS_DESCRIPTION">
+			<Text>No combat penalty when damaged.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CORPSMEN_NAME">
+			<Text>Cuerpo de Marines</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CORPSMEN_DESCRIPTION">
+			<Text>Cura cada turno incluso si se realizó una acción.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ELITE_RAIDER_NAME">
+			<Text>Asaltante de Élite</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ELITE_RAIDER_DESCRIPTION">
+			<Text>+10 [ICON_Strength] de Fuerza de combate cuando ataca y puede moverse después de atacar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AMPHIBIOUS_ASSAULT_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+10 [ICON_Strength] de Fuerza de combate cuando lucha en casillas de costa.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ATTACK_SUBMARINE_NAME">
+			<Text>Cazador Asesino</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ATTACK_SUBMARINE_DESCRIPTION">
+			<Text>Los submarinos asesino-cazador tienen un bonus de ataque de +15 [ICON_Strength] contra asaltantes navales y +7 [ICON_Strength] contra otros buques de guerra.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HUNTER_KILLER_RAIDER_MODIFIER_DESCRIPTION">
+			<Text>+15 [ICON_Strength] de Fuerza de combate cuando atacan a asaltantes navales.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HUNTER_KILLER_SURFACE_MODIFIER_DESCRIPTION">
+			<Text>+7 [ICON_Strength] de Fuerza de combate cuando atacan a unidades que no son asaltantes navales.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREEK_FIRE_SHIP_NAME">
+			<Text>Dromon de Fuego Griego</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREEK_FIRE_SHIP_DESCRIPTION">
+			<Text>Unidad de bombardeo naval de la Época Clásica.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TORPEDO_GUNBOAT_NAME">
+			<Text>Cañonero-torpedero</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TORPEDO_GUNBOAT_DESCRIPTION">
+			<Text>Unidad de combate naval cuerpo a cuerpo de la Era Moderna.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LIGHT_CRUISER_NAME">
+			<Text>Crucero Ligero</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LIGHT_CRUISER_DESCRIPTION">
+			<Text>Unidad naval a distancia de la Era Moderna.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DREADNOUGHT_NAME">
+			<Text>Acorazado</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DREADNOUGHT_DESCRIPTION">
+			<Text>Unidad de bombardeo naval de la Era Moderna.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RAILGUN_WARSHIP_NAME">
+			<Text> Buque de Cañón de Riel </Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RAILGUN_WARSHIP_DESCRIPTION">
+			<Text>Unidad de bombardeo naval de la Era de la Información.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COG_NAME">
+			<Text>Coca</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COG_DESCRIPTION">
+			<Text>Unidad de combate naval cuerpo a cuerpo de la Edad Medieval.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MISSILE_FRIGATE_NAME">
+			<Text>Fragata de misiles guiados</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MISSILE_FRIGATE_DESCRIPTION">
+			<Text>Unidad naval cuerpo a cuerpo más fuerte. Revela submarinos al alcance de la vista.</Text>
+		</Row>
+		<!-- Created by Laurana Kanan for LKs Units (18.02.10) -->
+		<!-- New promotion class for Fire Support -->
+		<Row Tag="LOC_PROMOTION_CLASS_AUTOMATIC_GUN_NAME">
+			<Text>Apoyo</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_FUSILLADE_NAME">
+			<Text>Descarga Cerrada</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_FUSILLADE_DESCRIPTION">
+			<Text>+4 [ICON_Ranged] de Fuerza a distancia cuando ataca unidades cuerpo a cuerpo y anticaballería.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_COUNTER_FIRE_NAME">
+			<Text>Contraataque</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_COUNTER_FIRE_DESCRIPTION">
+			<Text>+6 [ICON_Ranged] de Fuerza a distancia cuando ataca unidades de ataque a distancia y de asedio.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_MANTLET_NAME">
+			<Text>Pluteo</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_MANTLET_DESCRIPTION">
+			<Text>+7 [ICON_Strength] de Fuerza de combate cuando se defiende de ataques a distancia.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_ENTRENCH_NAME">
+			<Text>Atrincheramiento</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_ENTRENCH_DESCRIPTION">
+			<Text>+10 [ICON_Strength] de Fuerza de combate cuando ataca o se defiende desde un distrito o fuerte.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_MARKSMAN_NAME">
+			<Text>Francotirador</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_MARKSMAN_DESCRIPTION">
+			<Text>+7 [ICON_Ranged] de Fuerza a distancia cuando ataca unidades de tierra.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_OVERWATCH_NAME">
+			<Text>Supervisión</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_OVERWATCH_DESCRIPTION">
+			<Text>Ejerce una zona de control y +5 [ICON_Strength] de Fuerza de combate cuando se defiende contra ataques a corta distancia.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_FIRE_AND_MANEUVER_NAME">
+			<Text>Fuego y Maniobra</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_FIRE_AND_MANEUVER_DESCRIPTION">
+			<Text>Puede moverse después de atacar y +5 [ICON_Ranged] de Fuerza a distancia cuando ataca defensas de distrito.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LK_AUTOMATIC_GUN_NAME">
+			<Text>Apoyo de Fuego</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LK_AUTOMATIC_GUN_DESCRIPTION">
+			<Text>Proporciona +4 [ICON_Strength] de Fuerza de combate a unidades adyancentes de caballería cuando atacan, +4 [ICON_Strength] de Fuerza de combate a unidades adyancentes anticaballería cuando defienden y +2 [ICON_Strength] de Fuerza de combate a unidades adyacentes cuerpo a cuerpo.</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_ANTICAV_DESCRIPTION">
+			<Text>+{1_Amount} Fuego de Apoyo de una unidad de apoyo adyacente (cuando defiende).</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_MELEE_DESCRIPTION">
+			<Text>+{1_Amount} Fuego de Apoyo de una unidad de apoyo adyacente.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

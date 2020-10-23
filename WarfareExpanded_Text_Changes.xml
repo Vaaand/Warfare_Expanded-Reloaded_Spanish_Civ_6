@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- Land Units -->
+		<Replace Tag="LOC_UNIT_AT_CREW_NAME">
+			<Text>Armas Pesadas</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_AT_CREW_DESCRIPTION">
+			<Text>Unidad de apoyo contra incendios de la era atómica.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_AT_NAME">
+			<Text>Armas pesadas modernas</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_AT_CREW_DESCRIPTION">
+			<Text>Unidad de apoyo de la Era Atómica.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HELICOPTER_NAME">
+			<Text>Helicóptero de Ataque</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HELICOPTER_DESCRIPTION">
+			<Text>Veloz unidad anticaballería de la Era de la Información.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY">
+			<Text>Revisa la construcción para mejorar el rendimiento de tu considerable contingente de tropas a distancia.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION">
+			<Text>Unidad de caballería pesada exclusiva de la India de la Época Clásica. Las unidades enemigas adyacentes reciben -5 [ICON_STRENGTH] de Fuerza de combate.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
+			<Text>Unidad de apoyo de la Era Moderna. Bonus [ICON_Strength] a la Fuerza de combate contra unidades cuerpo a cuerpo, anticaballería y caballería ligera. No puede moverse y atacar en el mismo turno a menos que se haya ganado la promoción de Fuego y Maniobra.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_INFANTRY_DESCRIPTION">
+			<Text>Unidad cuerpo a cuerpo de la Era Atómica.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PIKE_AND_SHOT_DESCRIPTION">
+			<Text>Unidad anticaballería del Renacimiento.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TANK_DESCRIPTION">
+			<Text>Veloz unidad de caballería pesada de la Era Atómica que ignora las zonas de control.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_ARMOR_NAME">
+			<Text>Tanque de Batalla Principal</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION">
+			<Text>Unidad de apoyo de la Era Industrial. +1 al Alcance [ICON_Range] de las unidades de asedio que estén en el radio de 1 hexágono.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARTILLERY_NAME">
+			<Text>Artillería Pesada</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MECHANIZED_INFANTRY_DESCRIPTION">
+			<Text>Unidad de infantería montada de la Era de la Información.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SWEDEN_CAROLEAN_DESCRIPTION">
+			<Text>Unidad exlusiva sueca de la Era Industrial que sustituye a la Infantería de Línea. Es más rápida que la Infantería de Línea. +3 a la Fuerza de combate [ICON_Strength] por Movimiento [ICON_Movement] sin usar</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION">
+			<Text>Unidad cuerpo a cuerpo exclusiva de Macedonia. +5 a la Fuerza de combate [ICON_Strength] al asediar distritos. 50% de bonificación de apoyo adicional.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION">
+			<Text>Unidad de caballería pesada exlusiva de Macedonia que remplaza al Jinete Blindado. +5 adicional de Fuerza de combate [ICON_Strength] cuando está adyancente a un Gran General. +5 puntos de Gran General cuando mata una unidad enemiga. Comienza con un ascenso gratis.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DRONE_DESCRIPTION">
+			<Text>Unidad de apoyo de la era de la información. Agrega +1 [ICON_Range] al Alcance y +5 [ICON_Bombard] a la Fuerza de bombardeo a las unidades de clase Asedio dentro de 1 hexagono</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PIKEMAN_NAME">
+			<Text>Piquero</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PIKE_AND_SHOT_NAME">
+			<Text>Piquero y tirador</Text>
+		</Replace>
+		<!-- Air Units -->
+		<Replace Tag="LOC_UNIT_BOMBER_DESCRIPTION">
+			<Text>Actualización del Bombardero Temprano de la Era Atómica.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BIPLANE_NAME">
+			<Text>Caza Temprano</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIGHTER_DESCRIPTION">
+			<Text>Actualización del Caza Temprano de la Era Atómica.</Text>
+		</Replace>
+		<!-- Naval Units -->
+		<Replace Tag="LOC_UNIT_CARAVEL_DESCRIPTION">
+			<Text>Veloz unidad de eploración naval cuerpo a cuerpo de la Edad Media.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DESTROYER_DESCRIPTION">
+			<Text>Unidad naval cuerpo a cuerpo de la Era Atómica. Revela Asaltantes navales cuando se encuentran dentro del Alcance visual.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION">
+			<Text>Unidad naval de bombardeo de la Era Atómica. Proporciona protección aérea a casillas a una distancia ante ataques nucleares.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NUCLEAR_SUBMARINE_NAME">
+			<Text>Submarino de Misiles Balísticos</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MISSILE_CRUISER_NAME">
+			<Text>Crucero de misiles guiado</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MISSILE_CRUISER_DESCRIPTION">
+			<Text>Unidad de bombardeo naval más fuerte. Proporciona cobertura contra ataques aéreos y nucleares hasta una casilla de distancia.</Text>
+		</Replace>
+	</BaseGameText>
+</GameData>
