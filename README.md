@@ -1,3 +1,5 @@
+Actualización - Upgrade: 26/06/2020
+
 Instalación - Español
 
 1°- Dentro del mod "Warfare Expanded-Reloaded", en la capeta "Text" se encontraran varias subcarpetas, una cada es un idioma diferente, por lo que se modificara solamente la capeta "en_US".
