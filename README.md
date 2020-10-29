@@ -1,4 +1,4 @@
-Actualización - Upgrade: 26/06/2020
+Actualización - Upgrade: 26/06/2020 y 27/10/2020
 
 Instalación - Español
 
