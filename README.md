@@ -1,5 +1,7 @@
 Actualización - Upgrade: 26/06/2020 y 27/10/2020
 
+Link: https://steamcommunity.com/sharedfiles/filedetails/?id=2044522714&searchtext=warfare+expand
+
 Instalación - Español
 
 1°- Dentro del mod "Warfare Expanded-Reloaded", en la capeta "Text" se encontraran varias subcarpetas, una cada es un idioma diferente, por lo que se modificara solamente la capeta "en_US".
