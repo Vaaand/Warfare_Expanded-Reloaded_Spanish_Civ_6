@@ -173,23 +173,11 @@
 		<Row Tag="LOC_ABILITY_PIKE_AND_SHOT_NAME">
 			<Text>Lucio y tiro</Text>
 		</Row>
-		<Row Tag="LOC_ABILITY_PIKE_AND_SHOT_HC_DESCRIPTION">
+		<Row Tag="LOC_ABILITY_PIKE_AND_SHOT_DESCRIPTION">
 			<Text>Los mosqueteros reciben +5 [ICON_Strength] a la fuerza cuando se defienden contra la caballería pesada y junto a un piquero.</Text>
 		</Row>
-		<Row Tag="LOC_ABILITY_PIKE_AND_SHOT_LC_DESCRIPTION">
-			<Text>Los mosquetes reciben +5 [ICON_Strength] a la fuerza cuando se defienden contra la caballería ligera y junto a un piquero.</Text>
-		</Row>
-		<Row Tag="LOC_ABILITY_PIKE_AND_SHOT_RC_DESCRIPTION">
-			<Text>Los mosqueteros reciben +5 [ICON_Strength] a la fuerza cuando defienden contra la caballería a distancia y junto a un piquero.</Text>
-		</Row>
-		<Row Tag="LOC_PIKE_AND_SHOT_VS_HC_DEFENSIVE_BONUS_DESCRIPTION">
-			<Text>Piquero y tirador, + {1_Amount} a la fuerza defendiendo contra Caballería pesada y adyacente a un Piquero.</Text>
-		</Row>
-		<Row Tag="LOC_PIKE_AND_SHOT_VS_LC_DEFENSIVE_BONUS_DESCRIPTION">
-			<Text>Piquero y tirador, + {1_Amount} a la fuerza defendiendo contra Caballería Ligera y adyacente a un Piquero.</Text>
-		</Row>
-		<Row Tag="LOC_PIKE_AND_SHOT_VS_RC_DEFENSIVE_BONUS_DESCRIPTION">
-			<Text>Piquero y tirador, + {1_Amount} a la fuerza defendiendo frente a la Caballería a distancia y adyacente a un Piquero.</Text>
+		<Row Tag="LOC_PIKE_AND_SHOT_VS_CAV_DEFENSIVE_BONUS_DESCRIPTION">
+			<Text>Lucio y tiro, + {1_Amount} a la fuerza defendiendo contra Caballería y adyacente a un Piquero.</Text>
 		</Row>
 		<!-- Air Units -->
 		<Row Tag="LOC_UNIT_WW1_BOMBER_NAME">
@@ -455,7 +443,7 @@
 			<Text>Fuerzas Combinadas</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_COMBINED_ARMS_DESCRIPTION">
-			<Text>No combat penalty when damaged.</Text>
+			<Text>Sin penalización de combate cuando está herida.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CORPSMEN_NAME">
 			<Text>Cuerpo de Marines</Text>

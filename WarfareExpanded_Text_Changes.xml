@@ -92,7 +92,7 @@
 			<Text>Submarino de Misiles Balísticos</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_MISSILE_CRUISER_NAME">
-			<Text>Crucero de misiles guiado</Text>
+			<Text>Crucero de misiles guiados</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_MISSILE_CRUISER_DESCRIPTION">
 			<Text>Unidad de bombardeo naval más fuerte. Proporciona cobertura contra ataques aéreos y nucleares hasta una casilla de distancia.</Text>
