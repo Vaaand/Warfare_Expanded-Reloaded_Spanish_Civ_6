@@ -5,7 +5,7 @@ Ubicación original del Mod: [Warfare Expanded: Reloaded](https://steamcommunity
 **Actualización - Upgrade: v1.0.2 para 03/02/2021**
 
 ## Instalación
-![](https://img.icons8.com/emoji/36/000000/spain-emoji.png) **Español** ![](https://img.icons8.com/emoji/36/000000/spain-emoji.png)
+![](https://img.icons8.com/emoji/24/000000/spain-emoji.png) **Español** ![](https://img.icons8.com/emoji/24/000000/spain-emoji.png)
 
 1. Dentro del mod "Warfare Expanded-Reloaded", en la capeta "Text" se encontraran varias subcarpetas, una cada es un idioma diferente, por lo que se modificara solamente la capeta "en_US".
 
@@ -23,7 +23,7 @@ Ubicación original del Mod: [Warfare Expanded: Reloaded](https://steamcommunity
 ------------
 
 ## Instalación
-![](https://img.icons8.com/emoji/36/000000/united-states-emoji.png) **English** ![](https://img.icons8.com/emoji/36/000000/united-states-emoji.png)
+![](https://img.icons8.com/emoji/24/000000/united-states-emoji.png) **English** ![](https://img.icons8.com/emoji/24/000000/united-states-emoji.png)
 
 1. Inside the mod "Warfare Expanded-Reloaded", in the "Text" folder there will be several subfolders, one each is a different language, so only the "en_US" folder will be modified.
 
