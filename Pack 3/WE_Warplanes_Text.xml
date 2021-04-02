@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- New Air Units -->
+		<Row Tag="LOC_UNIT_WW1_BOMBER_NAME">
+			<Text>Bombardero Temprano</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WW1_BOMBER_DESCRIPTION">
+			<Text>Primera unidad de bombardeo aéreo, disponible en la Era Moderna.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_STEALTH_BOMBER_NAME">
+			<Text>Bombardero Furtivo</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_STEALTH_BOMBER_DESCRIPTION">
+			<Text>Unidad de bombardeo aéreo de la Era de la Información con capacidad de sigilo.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_STEALTH_FIGHTER_NAME">
+			<Text>Caza Furtivo</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_STEALTH_FIGHTER_DESCRIPTION">
+			<Text>Unidad aérea de combate de la Era de la Información con capacidad de sigilo..</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WW1_GROUND_ATTACK_NAME">
+			<Text>Avión Aire-Tierra Temprano</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WW1_GROUND_ATTACK_DESCRIPTION">
+			<Text>Primera unidad aérea de ataque aire-tierra, disponible en la Era Moderna.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GROUND_ATTACK_NAME">
+			<Text>Avión Aire-Tierra</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GROUND_ATTACK_DESCRIPTION">
+			<Text>Unidad de ataque terrestre aéreo de la era atómica.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JET_GROUND_ATTACK_NAME">
+			<Text>Avión Aire-Tierra Avanzado</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JET_GROUND_ATTACK_DESCRIPTION">
+			<Text>Unidad aérea de ataque aire-tierra de la Era de la Información.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_AIR_ATTACK_NAME">
+			<Text>Ataque aéreo Aire-Tierra</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_WILD_WEASEL_NAME">
+			<Text>Comadreja Salvaje</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_WILD_WEASEL_DESCRIPTION">
+			<Text>+10 [ICON_Strength] a la Fuerza de combate al defenderse contra unidades antiaéreas.[NEWLINE]+10 [ICON_Strength] a la Fuerza de combate al defenderse contra unidades antiaéreas en las casillas que defienden.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COUNTERMEASURES_NAME">
+			<Text>Contramedidas</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COUNTERMEASURES_DESCRIPTION">
+			<Text>+7 [ICON_Strength] a la Fuerza de combate contra unidades aéreas de combate.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AIR_SORTIES_NAME">
+			<Text>Incursión Aérea</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AIR_SORTIES_DESCRIPTION">
+			<Text>Puede curarse después de atacar.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GUIDED_BOMBS_NAME">
+			<Text>Misil Teledirigido</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GUIDED_BOMBS_DESCRIPTION">
+			<Text>+10 [ICON_Ranged] a la Fuerza aérea de combate contra unidades fortificadas.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_STRATEGIC_BOMBING_NAME">
+			<Text>Bombardeo Estratégico</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_STRATEGIC_BOMBING_DESCRIPTION">
+			<Text>+12 [ICON_Bombard] a la Fuerza aérea de combate contra ciudades y campamentos.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CARPET_BOMBING_NAME">
+			<Text>Bombardeo de Área</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CARPET_BOMBING_DESCRIPTION">
+			<Text>+15 [ICON_Bombard] a la Fuerza aérea de combate contra unidades de tierra.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_NAME">
+			<Text>Superioridad Aérea</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_DESCRIPTION">
+			<Text>+7 [ICON_Strength] a la Fuerza de combate contra unidades aéreas de ataque aire-tierra.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_UAV_NAME">
+			<Text>Vehículo Aéreo No Tripulado (VANT)</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_UAV_DESCRIPTION">
+			<Text>Dron de ataque de la Era de la Información.</Text>
+		</Row>
+		<!-- Air Units Changes -->
+		<Replace Tag="LOC_UNIT_BOMBER_DESCRIPTION">
+			<Text>Actualización del Bombardero Temprano de la Era Atómica.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BIPLANE_NAME">
+			<Text>Caza Temprano</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIGHTER_DESCRIPTION">
+			<Text>Actualización del Caza Temprano de la Era Atómica.</Text>
+		</Replace>
+		<!-- Air Units Pedia -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_1">
+			<Text>Cuando estalló la Primera Guerra Mundial, varias naciones, incluidas Gran Bretaña, Francia y Alemania, habían experimentado con el concepto de bombardeo explosivo por avión. En los primeros días de la guerra, se lanzaron bombas desde todo tipo de aviones, incluidos aviones de reconocimiento y de combate. Uno de los primeros bombarderos genuinos introducidos durante la guerra, el Voisin III, fue diseñado por el fabricante de aviones francés Gabriel Voisin. Con un diseño de biplano estándar reforzado con un marco de acero, el Voisin III era capaz de transportar cargas útiles de más de 300 libras.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_1">
+			<Text>The Northrop (later Northrop Grumman) B-2 Spirit, also known as the Stealth Bomber, is an American heavy penetration strategic bomber, featuring low observable stealth technology designed for penetrating dense anti-aircraft defenses; it is a flying wing design with a crew of two. The bomber can deploy both conventional and thermonuclear weapons, such as eighty 500 lb (230 kg)-class (Mk 82) JDAM Global Positioning System-guided bombs, or sixteen 2,400 lb (1,100 kg) B83 nuclear bombs. The B-2 is the only acknowledged aircraft that can carry large air-to-surface standoff weapons in a stealth configuration.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_1">
+			<Text>El Northrop (más tarde Northrop Grumman) B-2 Spirit, también conocido como Stealth Bomber, es un bombardero estratégico estadounidense de gran penetración, con tecnología de sigilo de baja observación diseñada para penetrar densas defensas antiaéreas; es un diseño de ala volante con una tripulación de dos. El bombardero puede desplegar armas convencionales y termonucleares, como ochenta bombas guiadas por el Sistema de Posicionamiento Global JDAM de clase de 500 lb (230 kg) (Mk 82), o dieciséis bombas nucleares B83 de 2.400 lb (1.100 kg). El B-2 es el único avión reconocido que puede transportar grandes armas de aire a tierra en una configuración sigilosa.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_2">
+			<Text>A diciembre de 2018, los únicos cazas de quinta generación listos para el combate son el Lockheed Martin F-22 Raptor, que entró en servicio con la Fuerza Aérea de los Estados Unidos en 2005; el Lockheed Martin F-35 Lightning II, que entró en servicio en 2015; y el Chengdu J-20, que entró en servicio con la Fuerza Aérea del Ejército Popular de Liberación (PLAAF) en septiembre de 2017. El Shenyang FC-31 tuvo pruebas de vuelo de la versión 3.0 revisada en 2017. El HAL AMCA, Mitsubishi X-2 Shinshin, TAI TF-X y el proyecto paquistaní Azm MALE UAV se encuentran en las primeras etapas de desarrollo. El Sukhoi Su-57 está programado para su entrega a la Fuerza Aérea Rusa en 2020.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_1">
+			<Text>El avión de ataque como función se definió por su uso durante la Primera Guerra Mundial, en apoyo de las fuerzas terrestres en los campos de batalla. El apoyo en el campo de batalla generalmente se divide en apoyo aéreo cercano e interdicción aérea en el campo de batalla, requiriendo el primero una cooperación estricta y el último solo general con fuerzas de superficie amigas. aunque tales aviones también atacaron objetivos en áreas traseras. Tales misiones requerían volar donde se esperaba fuego antiaéreo ligero y operar a bajas altitudes para identificar con precisión los objetivos. Otros roles, incluidos los de bombarderos ligeros, bombarderos medios, bombarderos en picado, reconocimiento, cazas, cazabombarderos, podían realizar y realizaron ataques aéreos en los campos de batalla. Todos estos tipos podrían dañar significativamente los objetivos terrestres de un vuelo de bajo nivel, ya sea por bombardeos, ametralladoras o ambos.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_1">
+			<Text>Los Junkers Ju 87 de la Luftwaffe alemana se convirtieron prácticamente en sinónimo de apoyo aéreo cercano durante los primeros meses de la Segunda Guerra Mundial. La Fuerza Aérea del Desierto de la Commonwealth británica, dirigida por Arthur Tedder, se convirtió en la primera formación táctica aliada en enfatizar el papel de ataque, generalmente en forma de cazabombarderos monomotor Hawker Hurricane y Curtiss P-40 o "cazatanques" especializados. como el Hurricane Mk IID, armado con dos cañones Vickers S de 40 mm (en particular, el Escuadrón No. 6 de la RAF). Aproximadamente al mismo tiempo, una invasión masiva de las fuerzas del Eje había obligado a las fuerzas aéreas soviéticas a expandir rápidamente su capacidad de apoyo del ejército, como el Ilyushin Il-2 Sturmovik. Las mujeres piloto conocidas como las "Brujas Nocturnas" utilizaron un tipo biplano de entrenamiento ligero de madera obsoleto, el Polikarpov Po-2 y pequeñas bombas antipersonal en ataques de "bombardeo de acoso" que resultaron difíciles de contrarrestar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_1">
+			<Text>Las fuerzas aéreas de la era posterior a la Segunda Guerra Mundial se mostraron inicialmente reacias a desarrollar aviones a reacción de ala fija específicamente para ataques terrestres. Aunque el apoyo aéreo cercano y la interdicción siguen siendo cruciales para el campo de batalla moderno, los aviones de ataque son menos glamorosos que los cazas, y tanto los pilotos como los planificadores militares tienen un cierto desprecio bien cultivado por los "motores de lodo". El Douglas A-3 Skywarrior y el North American A-5 Vigilante fueron diseñados para roles de ataque nuclear basados ​​en portaaviones, mientras que el Grumman A-6 Intruder, Vought A-7 Corsair II, Sukhoi Su-25, A-10 Thunderbolt, Panavia Tornado, AMX, Dassault Etendard y Super Etendard y muchos otros aviones menos conocidos han sido diseñados específicamente para trabajos de ataque a tierra, ataque, apoyo cercano y anti-blindaje, con poca o ninguna capacidad aire-aire integrada en el diseño.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_1">
+			<Text>Wild Weasel es un nombre en clave dado por las Fuerzas Armadas de los Estados Unidos, específicamente la Fuerza Aérea de los EE. UU., A un avión, de cualquier tipo, equipado con misiles de búsqueda de radar y encargado de destruir los radares y las instalaciones SAM de los sistemas de defensa aérea enemigos. "El primer éxito de Wild Weasel se produjo poco después de la primera misión de Wild Weasel el 20 de diciembre de 1965, cuando los capitanes Al Lamb y Jack Donovan destruyeron un sitio durante un ataque de Rolling Thunder en la estación ferroviaria de Yen Bai, a unas 75 millas al noroeste de Hanoi". El concepto Wild Weasel fue desarrollado por la Fuerza Aérea de los Estados Unidos en 1965, después de la introducción de los misiles SAM soviéticos y su derribo de los aviones de ataque estadounidenses sobre los cielos de Vietnam del Norte. El programa fue dirigido por el general Kenneth Dempster.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_1">
+			<Text>Una bengala o bengala señuelo es una contramedida aérea infrarroja utilizada por un avión o helicóptero para contrarrestar un misil tierra-aire o un misil aire-aire de retorno por infrarrojos ("búsqueda de calor"). Las antorchas se componen comúnmente de una composición pirotécnica a base de magnesio u otro metal ardiente en caliente, con una temperatura de combustión igual o superior a la del escape del motor. El objetivo es hacer que el misil guiado por infrarrojos busque la firma de calor de la bengala en lugar de los motores del avión. Chaff, originalmente llamado Window por los británicos y Düppel por la Luftwaffe alemana de la Segunda Guerra Mundial (del suburbio de Berlín donde se desarrolló por primera vez), es una contramedida de radar en la que aviones u otros objetivos extienden una nube de pequeñas y delgadas piezas de aluminio. , fibra de vidrio metalizado o plástico, que aparece como un grupo de objetivos primarios en las pantallas de radar o inunda la pantalla con múltiples retornos.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_1">
+			<Text>Una salida (de la palabra francesa que significa salida) es un despliegue o despacho de una unidad militar, ya sea un avión, barco o tropas, desde un punto fuerte. La salida, ya sea de uno o más aviones o barcos, suele tener una misión específica. La tasa de salidas es el número de salidas que una unidad determinada puede soportar en un tiempo determinado.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_1">
+			<Text>Poco después de que se instalaran ametralladoras en los cazas biplanos, los pilotos con munición sin usar que regresaban de una misión se divertían buceando y disparando contra objetivos terrestres ... generalmente la infantería pobre y los convoyes de suministros atrapados debajo en el barro del frente occidental. En poco tiempo, los generales vieron el valor de hacerlo, por lo que el ametrallamiento se convirtió en parte de las tácticas aéreas (era menos peligroso que las peleas de perros). Los diseñadores de aviación incluso comenzaron a construir aviones dedicados al ataque terrestre, como el Junkers J.1 con dos ametralladoras orientadas hacia abajo. Cuando llegó la Segunda Guerra Mundial, la mayoría de los combatientes tenían aviones de combate dedicados a ametrallar, la mayoría montaba varias ametralladoras y algunos cohetes pequeños.Una bomba guiada (también conocida como bomba inteligente, unidad de bomba guiada o GBU) es una munición guiada de precisión diseñada para lograr un error circular probable (CEP) menor. Debido a que los efectos de daño de las armas explosivas disminuyen con la distancia de acuerdo con una ley de potencia, incluso las mejoras modestas en la precisión (y, por lo tanto, la reducción de la distancia de falla) permiten que un objetivo sea atacado de manera efectiva con menos bombas o más pequeñas. Por lo tanto, con las armas guiadas, se ponen en riesgo menos tripulaciones aéreas, se gastan menos municiones y se reducen los daños colaterales.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_1">
+			<Text>El bombardeo de alfombra, también conocido como bombardeo de saturación, es un gran bombardeo aéreo realizado de manera progresiva para infligir daño en cada parte de un área seleccionada de tierra. La frase evoca la imagen de explosiones que cubren por completo un área, de la misma manera que una alfombra cubre un piso. El bombardeo de alfombra generalmente se logra lanzando muchas bombas sin guía.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_1">
+			<Text>El bombardeo estratégico es una estrategia militar utilizada en una guerra total con el objetivo de derrotar al enemigo destruyendo su moral o su capacidad económica para producir y transportar material a los teatros de operaciones militares, o ambos. Es un ataque sistemáticamente organizado y ejecutado desde el aire que puede utilizar bombarderos estratégicos, misiles de largo o mediano alcance o aviones de combate-bombardero con armas nucleares para atacar objetivos considerados vitales para la capacidad de guerra del enemigo.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_1">
+			<Text>Un caza de superioridad aérea, también llamado caza de superioridad aérea, es un tipo de avión de combate diseñado para entrar y tomar el control del espacio aéreo enemigo como un medio de establecer un dominio completo sobre la fuerza aérea del enemigo (supremacía aérea). Los cazas de superioridad aérea están diseñados principalmente para atacar con eficacia a los cazas enemigos, más que otros tipos de aviones, aunque algunos pueden tener un papel secundario para los ataques aire-tierra.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_1">
+			<Text>Un vehículo aéreo no tripulado (UAV), comúnmente conocido como dron, es un avión sin un piloto humano a bordo. Los UAV son un componente de un sistema de aeronaves no tripuladas (UAS); que incluyen un UAV, un controlador en tierra y un sistema de comunicaciones entre los dos. El vuelo de los UAV puede operar con varios grados de autonomía: ya sea bajo control remoto por un operador humano o de forma autónoma mediante computadoras a bordo.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+	</BaseGameText>
+</GameData>

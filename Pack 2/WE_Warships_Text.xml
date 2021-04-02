@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- New Naval Units -->
+		<Row Tag="LOC_UNIT_RAIDER_NAME">
+			<Text>Incursor Mercantil</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RAIDER_DESCRIPTION">
+			<Text>Unidad naval de incursión a distancia de la Era Industrial.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CORVETTE_NAME">
+			<Text>Corbeta</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CORVETTE_DESCRIPTION">
+			<Text>Veloz unidad naval de ataque cuerpo a cuerpo del Renacimiento.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MISSILE_DESTROYER_NAME">
+			<Text>Destructor de Misiles Guiados</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MISSILE_DESTROYER_DESCRIPTION">
+			<Text>Unidad naval de ataque cuerpo a cuerpo más fuerte. Reveala submarinos cuando se encuentran en la visual.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SUPERCARRIER_NAME">
+			<Text>Portaaviones Nuclear</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SUPERCARRIER_DESCRIPTION">
+			<Text>Unidad naval cuerpo a cuerpo de la Era de la Información que puede transportar unidades aéreas.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GALLEASS_NAME">
+			<Text>Galeaza</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GALLEASS_DESCRIPTION">
+			<Text>Unidad naval a distancia de la Edad Media.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARMORED_CRUISER_NAME">
+			<Text>Crucero Blindado</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARMORED_CRUISER_DESCRIPTION">
+			<Text>>Unidad naval a distancia de la Era Industrial.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BATTLECRUISER_NAME">
+			<Text>Crucero de Batalla</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BATTLECRUISER_DESCRIPTION">
+			<Text>Unidad naval a distancia de la Era Moderna.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CARRACK_NAME">
+			<Text>Galeón</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CARRACK_DESCRIPTION">
+			<Text>Unidad de bombardeo naval de la Época Medieval.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SHIP_OF_THE_LINE_NAME">
+			<Text>Buque de Línea</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SHIP_OF_THE_LINE_DESCRIPTION">
+			<Text>Unidad de bombardeo naval del Renacimiento.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PRE_DREADNOUGHT_NAME">
+			<Text>Buque de Guerra</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PRE_DREADNOUGHT_DESCRIPTION">
+			<Text>Unidad de bombardeo naval de la Era Industrial.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAVAL_BOMBARD_NAME">
+			<Text>Bombardeo Naval</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAVAL_BOMBARD_DESCRIPTION">
+			<Text>Cancela la penalización de distancia a tierra.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAVAL_BOMBARD_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>Aumenta la Fuerza de bombardeo en +17 para las unidades de bombardeo naval.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ATTACK_SUBMARINE_NAME">
+			<Text>Submarino Asesino-Cazador</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ATTACK_SUBMARINE_DESCRIPTION">
+			<Text>Unidad naval cuerpo a cuerpo de la Era de la Información. Solo puede ser visto cuando se está adyacente a él. Tiene +15 [ICON_Strength] de bonus de ataque contra asaltantes navales y +7 [ICON_Strength] contra otros buques de guerra.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INDUSTRIAL_MARINE_NAME">
+			<Text>Infantería Naval</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INDUSTRIAL_MARINE_DESCRIPTION">
+			<Text>Unidad de infantería naval anfibia mecanizada de la Era Industrial. Especializada en asaltos desde el mar.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WW2_MARINE_NAME">
+			<Text>Marine</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WW2_MARINE_DESCRIPTION">
+			<Text>Unidad de infantería naval anfibia mecanizada de la Era Atómica. Especializada en asaltos desde el mar.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_MARINE_NAME">
+			<Text>Marine Moderno</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_MARINE_DESCRIPTION">
+			<Text>Unidad de infantería naval anfibia mecanizada de la Era de la Información. Especializada en asaltos desde el mar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MARINE_NAME">
+			<Text>Entrenamiento Anfibio</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MARINE_DESCRIPTION">
+			<Text>La infantería naval anfibia no sufre penalización de [ICON_Strength] Fuerza de combate y [ICON_Movement] Movimiento cuando ataca desde ríos o el mar. +10 [ICON_Strength] Fuerza de combate cuando lucha en casillas costeras.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_NAVAL_BOMBARD_NAME">
+			<Text>Bombardeo Naval</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_NAVAL_NAME">
+			<Text>Habilita el bombardeo naval contra unidades navales</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_NAVAL_DESCRIPTION">
+			<Text>+10 [ICON_Bombard] de Fuerza a distancia contra unidades navales.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_NAME">
+			<Text>Movimiento Extra de Bombardeo Naval</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Rango de Movimiento.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_LAND_NAME">
+			<Text>Bombardeo Naval Contra Unidades Terrestres</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_LAND_DESCRIPTION">
+			<Text>+10 [ICON_Bombard] de Fuerza a distancia contra unidades terrestres.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_DISTRICT_NAME">
+			<Text>Bombardeo Naval Contra Distritos</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_DISTRICT_DESCRIPTION">
+			<Text>+10 [ICON_Bombard] de Fuerza a distancia contra ciudades y campamentos.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_NAME">
+			<Text>Bombardeo Naval Curación en Campaña</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_DESCRIPTION">
+			<Text>Curación fuera de territorio amistoso.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_AIR_NAME">
+			<Text>Sensores de Proximidad</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_AIR_DESCRIPTION">
+			<Text>+7 [ICON_Strength] de Fuerza de combate al defenderse contra ataques aéreos.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_NAME">
+			<Text>Bombardeo Naval Repliegue</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_DESCRIPTION">
+			<Text>Puede moverse después de atacar.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_MARINE_NAME">
+			<Text>Marines</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_RIVER_PATROL_NAME">
+			<Text>Patrulla Fluvial</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_RIVER_PATROL_DESCRIPTION">
+			<Text>+7 [ICON_Strength] de Fuerza de combate en pantanos y adyancente a los ríos.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COAST_GUARD_NAME">
+			<Text>Reconocimiento Anfibio</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COAST_GUARD_DESCRIPTION">
+			<Text>Puede escalar paredes de acantilado.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EXPEDITIONARY_FORCE_NAME">
+			<Text>Fuerza Expedicionaria</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EXPEDITIONARY_FORCE_DESCRIPTION">
+			<Text>+7 [ICON_Strength] de Fuerza de combate en territorio extranjero o enemigo.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_RESERVE_FORCES_NAME">
+			<Text>Reservistas</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_RESERVE_FORCES_DESCRIPTION">
+			<Text>+7 [ICON_Strength] de Fuerza de combate en territorio amistoso.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COMBINED_ARMS_NAME">
+			<Text>Fuerzas Combinadas</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COMBINED_ARMS_DESCRIPTION">
+			<Text>Sin penalización de combate cuando está herida.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CORPSMEN_NAME">
+			<Text>Cuerpo de Marines</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CORPSMEN_DESCRIPTION">
+			<Text>Cura cada turno incluso si se realizó una acción.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ELITE_RAIDER_NAME">
+			<Text>Asaltante de Élite</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ELITE_RAIDER_DESCRIPTION">
+			<Text>+10 [ICON_Strength] de Fuerza de combate cuando ataca y puede moverse después de atacar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AMPHIBIOUS_ASSAULT_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+10 [ICON_Strength] de Fuerza de combate cuando lucha en casillas de costa.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ATTACK_SUBMARINE_NAME">
+			<Text>Cazador Asesino</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ATTACK_SUBMARINE_DESCRIPTION">
+			<Text>Los submarinos asesino-cazador tienen un bonus de ataque de +15 [ICON_Strength] contra asaltantes navales y +7 [ICON_Strength] contra otros buques de guerra.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HUNTER_KILLER_RAIDER_MODIFIER_DESCRIPTION">
+			<Text>+15 [ICON_Strength] de Fuerza de combate cuando atacan a asaltantes navales.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HUNTER_KILLER_SURFACE_MODIFIER_DESCRIPTION">
+			<Text>+7 [ICON_Strength] de Fuerza de combate cuando atacan a unidades que no son asaltantes navales.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREEK_FIRE_SHIP_NAME">
+			<Text>Dromon de Fuego Griego</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREEK_FIRE_SHIP_DESCRIPTION">
+			<Text>Unidad de bombardeo naval de la Época Clásica.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TORPEDO_GUNBOAT_NAME">
+			<Text>Cañonero-torpedero</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TORPEDO_GUNBOAT_DESCRIPTION">
+			<Text>Unidad de combate naval cuerpo a cuerpo de la Era Moderna.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LIGHT_CRUISER_NAME">
+			<Text>Crucero Ligero</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LIGHT_CRUISER_DESCRIPTION">
+			<Text>Unidad naval a distancia de la Era Moderna.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DREADNOUGHT_NAME">
+			<Text>Acorazado</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DREADNOUGHT_DESCRIPTION">
+			<Text>Unidad de bombardeo naval de la Era Moderna.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RAILGUN_WARSHIP_NAME">
+			<Text> Buque de Cañón de Riel </Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RAILGUN_WARSHIP_DESCRIPTION">
+			<Text>Unidad de bombardeo naval de la Era de la Información.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COG_NAME">
+			<Text>Coca</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COG_DESCRIPTION">
+			<Text>Unidad de combate naval cuerpo a cuerpo de la Edad Medieval.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MISSILE_FRIGATE_NAME">
+			<Text>Fragata de misiles guiados</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MISSILE_FRIGATE_DESCRIPTION">
+			<Text>Unidad naval cuerpo a cuerpo más fuerte. Revela submarinos al alcance de la vista.</Text>
+		</Row>
+		<!-- Naval Units Changes -->
+		<Replace Tag="LOC_UNIT_CARAVEL_DESCRIPTION">
+			<Text>Unidad naval de exploración cuerpo a cuerpo rápida de la era medieval.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DESTROYER_DESCRIPTION">
+			<Text>Unidad naval cuerpo a cuerpo de la era atómica. Revela los asaltantes navales al alcance de la vista.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION">
+			<Text>Unidad de bombardeo naval de la era atómica. Proporciona cobertura contra ataques aéreos y nucleares hasta una casilla de distancia.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NUCLEAR_SUBMARINE_NAME">
+			<Text>Submarino de misiles balísticos</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MISSILE_CRUISER_NAME">
+			<Text>Crucero de misiles guiados</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MISSILE_CRUISER_DESCRIPTION">
+			<Text>Unidad de bombardeo naval más fuerte. Proporciona cobertura contra ataques aéreos y nucleares hasta una casilla de distancia.</Text>
+		</Replace>
+		<!-- Naval Units Pedia -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_1">
+			<Text>Los asaltantes mercantes son barcos armados de asalto comercial que se disfrazan de buques mercantes no combatientes. El asalto comercial es una forma de guerra naval utilizada para destruir o interrumpir la logística del enemigo en mar abierto atacando su transporte mercante, en lugar de involucrar a sus combatientes o imponiendo un bloqueo contra ellos. También se conoce, en francés, como guerre de course (literalmente, "guerra de persecución") y, en alemán, Handelskrieg ("guerra comercial"), por las naciones más comprometidas históricamente con ella como estrategia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_1">
+			<Text>Una corbeta es un pequeño buque de guerra. Es tradicionalmente la clase de buque más pequeña que se considera un buque de guerra adecuado (o "calificado"). La clase de buque de guerra por encima de la corbeta es la de la fragata, mientras que la clase de abajo fue históricamente la de la balandra de guerra. La palabra "corbeta" se encuentra por primera vez en francés medio, un diminutivo de la palabra holandesa corf, que significa un barco pequeño, del latín corbis, que significa "cesta". Durante la Era de la Vela, las corbetas eran uno de los muchos tipos de buques de guerra más pequeños que una fragata y con una sola cubierta de armas. Estaban muy estrechamente relacionados con los balandros de guerra. El papel de la corbeta consistía principalmente en patrullar costeras, librar guerras menores, apoyar a grandes flotas o participar en misiones de mostrar la bandera.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_1">
+			<Text>Un destructor de misiles guiados es un destructor diseñado para lanzar misiles guiados. Muchos también están equipados para realizar operaciones antisubmarinas, antiaéreas y antisuperficie. La designación estándar de la OTAN para estos buques es DDG. Las naciones varían en el uso de la designación del destructor D en la numeración de los banderines del casco, ya sea prefijando o eliminándolo por completo. La Marina de los Estados Unidos ha adoptado la clasificación DDG en el sistema de clasificación de cascos estadounidense. Además de los cañones, un destructor de misiles guiados suele estar equipado con dos cargadores de misiles grandes, generalmente en celdas de lanzamiento vertical. Algunos destructores de misiles guiados contienen potentes sistemas de radar, como el Aegis Combat System de Estados Unidos, y pueden adoptarse para su uso en una función de defensa antimisiles o de misiles balísticos. Esto es especialmente cierto en el caso de las armadas que ya no operan cruceros, ya que se deben adoptar otras embarcaciones para llenar el vacío.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_1">
+			<Text>Supercarrier es un término descriptivo no oficial para el tipo más grande de portaaviones, generalmente aquellos que desplazan más de 70,000 toneladas cortas (64,000 toneladas métricas). Los supercarriers son los buques de guerra más grandes jamás construidos, más grandes que la clase de acorazados más grande establecida por cualquier país. La Armada de los Estados Unidos tiene diez superportadores activos a partir de 2015, mientras que el Reino Unido tendrá dos: los portaaviones de clase Queen Elizabeth Queen Elizabeth y el segundo Prince of Wales que se están construyendo actualmente y se espera que entren en servicio en 2018. Los rusos tienen el Kuznetsov, que es un crucero de aviones (crucero de misiles que transportan aviones pesados ​​(TAVKR) en la clasificación rusa) que sirve como buque insignia de la Armada rusa.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_1">
+			<Text>La Galeasa fue una clase de buque de guerra naval que ganó popularidad durante el siglo XVI, cuando los diseños basados ​​en la cocina tradicional se modificaron para incluir armamentos más pesados. Una galera típica comenzó su vida como un barco mercante impulsado por remos, que luego se actualizó para incluir mástiles para velas. Con dos formas de propulsión disponibles, el diseño de la galera permitió que la nave mantuviera gran parte de la reconocida velocidad de la cocina tradicional, al tiempo que llevaba armas pesadas para defenderse de los posibles atacantes.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_1">
+			<Text>El crucero blindado era un tipo de buque de guerra de finales del siglo XIX y principios del XX. Fue diseñado como otros tipos de cruceros para operar como un buque de guerra independiente de largo alcance, capaz de derrotar a cualquier barco, aparte de un acorazado, y lo suficientemente rápido como para dejar atrás a cualquier acorazado que encontrara. De tamaño variable, se distinguía de otros tipos de cruceros por su armadura de cinturón: hierro grueso (o más tarde acero) enchapado en gran parte del casco para proteger al barco de los proyectiles de proyectiles, muy parecido al de los acorazados. En la década de 1890, los cruceros habían abandonado las velas y adquirieron una apariencia moderna. Durante muchas décadas, la tecnología naval no había avanzado lo suficiente como para que los diseñadores produjeran un crucero que combinara un cinturón blindado con el largo alcance y la alta velocidad necesarios para cumplir su misión. A menudo era posible construir cruceros que eran más rápidos y mejores en todos los sentidos utilizando este tipo de barco, que dependía de una cubierta blindada más ligera para proteger las partes vitales del barco; sin embargo, a fines de la década de 1880, el desarrollo de los cañones de fuego rápido y los proyectiles de alto explosivo hizo que la reintroducción del blindaje lateral fuera una necesidad. La invención de la armadura endurecida a mediados de la década de 1890 ofreció una protección eficaz con menos peso que antes.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_1">
+			<Text>Un crucero de batalla, o crucero de batalla, era un barco capital construido en la primera mitad del siglo XX. Eran similares en tamaño, costo y armamento a los acorazados, pero generalmente llevaban menos armadura para obtener velocidades más rápidas. Los primeros cruceros de batalla fueron diseñados en el Reino Unido en la primera década del siglo, como un desarrollo del crucero blindado, al mismo tiempo que el dreadnought sucedió al acorazado pre-dreadnought. El objetivo del diseño era dejar atrás a cualquier barco con armamento similar y perseguir a cualquier barco con menor armamento; estaban destinados a cazar cruceros blindados más lentos y viejos y destruirlos con disparos pesados ​​mientras evitaban el combate con los acorazados más poderosos pero más lentos. Sin embargo, a medida que se construían más y más cruceros de batalla, se usaban cada vez más junto con los acorazados mejor protegidos.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CARRACK_CHAPTER_HISTORY_PARA_1">
+			<Text>Una carraca era un velero oceánico de tres o cuatro mástiles que se desarrolló en los siglos XIV al XV en Europa (principalmente Portugal). Evolucionado a partir del engranaje de un solo mástil, la carrack se utilizó por primera vez para el comercio europeo desde el Mediterráneo hasta el Báltico y rápidamente encontró uso con la riqueza recién descubierta del comercio transatlántico entre Europa, África y luego las Américas. En su forma más desarrollada, la carraca era un barco oceánico construido con carvel: lo suficientemente grande como para ser estable en mares gruesos y para una gran carga y las provisiones necesarias para viajes muy largos. Las últimas carracas tenían aparejo cuadrado en el trinquete y el palo mayor y aparejo latino en el mástil de mesana. Tenían una popa alta y redondeada con un gran castillo de popa, un castillo de proa y un bauprés en la popa.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CARRACK_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CARRACK_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CARRACK_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CARRACK_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_1">
+			<Text>Un buque de línea era un tipo de buque de guerra naval construido desde el siglo XVII hasta mediados del siglo XIX para participar en la táctica naval conocida como línea de batalla, en la que dos columnas de buques de guerra opuestos maniobrarían para llevar el mayor peso. de potencia de fuego de costado para soportar. Dado que estos combates los ganaban casi invariablemente los barcos más pesados ​​que llevaban los cañones más poderosos, la progresión natural fue construir barcos de vela que fueran los más grandes y poderosos de su tiempo. Desde finales de la década de 1840, la introducción de la energía a vapor trajo una menor dependencia del viento en la batalla y condujo a la construcción de barcos de línea con tornillos y casco de madera; varios barcos de pura vela se convirtieron a este mecanismo de propulsión. Sin embargo, la introducción de la fragata acorazada en 1859 condujo rápidamente al declive de los barcos de línea asistidos por vapor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_1">
+			<Text>Los acorazados anteriores al acorazado eran acorazados de alta mar construidos entre mediados y finales de la década de 1880 y 1905, antes del lanzamiento del HMS Dreadnought. Los pre-acorazados reemplazaron a los acorazados acorazados de las décadas de 1870 y 1880. Construidos en acero y protegidos por armaduras de acero endurecido, los acorazados anteriores al acorazado llevaban una batería principal de cañones muy pesados ​​en barbettes (abiertos o con cañoneras blindadas) apoyados por una o más baterías secundarias de armas más ligeras. Fueron propulsados ​​por máquinas de vapor de triple expansión alimentadas con carbón. En contraste con el desarrollo caótico de los buques de guerra acorazados en las décadas anteriores, la década de 1890 vio a las armadas de todo el mundo comenzar a construir acorazados con un diseño común, ya que docenas de barcos seguían esencialmente el diseño de la clase Majestic británica. La similitud en la apariencia de los acorazados en la década de 1890 fue subrayada por el creciente número de barcos que se estaban construyendo.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_1">
+			<Text>Un submarino de ataque o submarino cazador-asesino es un submarino diseñado específicamente con el propósito de atacar y hundir otros submarinos, combatientes de superficie y buques mercantes. En las armadas soviética y rusa se les llamaba y se les llama "submarinos polivalentes". También se utilizan para proteger a los combatientes de superficie amigos y a los submarinos de misiles. Algunos submarinos de ataque también están armados con misiles de crucero montados en tubos de lanzamiento verticales, lo que aumenta el alcance de sus misiones potenciales para incluir objetivos terrestres. Los submarinos de ataque pueden ser de propulsión nuclear o diesel-eléctrica ("convencionalmente"). En el sistema de nombres de la Marina de los Estados Unidos, y en el sistema equivalente de la OTAN (STANAG 1166), los submarinos de ataque de propulsión nuclear se conocen como SSN y sus predecesores diésel-eléctricos eran SSK.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_1">
+			<Text>Los infantes de marina, también conocidos como cuerpo de marines o infantería naval, son típicamente una fuerza de infantería que se especializa en el apoyo de operaciones navales y militares en el mar y en tierra, así como en la ejecución de sus propias operaciones. En la mayoría de los países, la fuerza marítima es una parte integral de la armada, pero también puede estar bajo el mando del ejército como las Troupes de marine (Marines franceses) y la Brigada Givati ​​(Marines israelíes), o formar una rama de servicio independiente como la Cuerpo de Marines de los Estados Unidos y Royal Marines (aunque el Cuerpo de Marines de los Estados Unidos depende del Departamento de Marina de los Estados Unidos y los Royal Marines están bajo el Servicio Naval de Su Majestad). Históricamente, las tareas llevadas a cabo por los marines han incluido: ayudar a mantener la disciplina y el orden a bordo del barco (lo que refleja la naturaleza presionada de la compañía de los barcos y el riesgo de motín), el abordaje de los barcos durante el combate o la captura de barcos premiados, y proporcionar mano de obra para incursiones en tierra en apoyo de los objetivos navales. Las fuerzas marinas evolucionaron para especializarse en las habilidades y capacidades necesarias para la guerra anfibia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_1">
+			<Text>Los infantes de marina, también conocidos como cuerpo de marines o infantería naval, son típicamente una fuerza de infantería que se especializa en el apoyo de operaciones navales y militares en el mar y en tierra, así como en la ejecución de sus propias operaciones. En la mayoría de los países, la fuerza marítima es una parte integral de la armada, pero también puede estar bajo el mando del ejército como las Troupes de marine (Marines franceses) y la Brigada Givati ​​(Marines israelíes), o formar una rama de servicio independiente como la Cuerpo de Marines de los Estados Unidos y Royal Marines (aunque el Cuerpo de Marines de los Estados Unidos depende del Departamento de Marina de los Estados Unidos y los Royal Marines están bajo el Servicio Naval de Su Majestad). Históricamente, las tareas llevadas a cabo por los marines han incluido: ayudar a mantener la disciplina y el orden a bordo del barco (lo que refleja la naturaleza presionada de la compañía de los barcos y el riesgo de motín), el abordaje de los barcos durante el combate o la captura de barcos premiados, y proporcionar mano de obra para incursiones en tierra en apoyo de los objetivos navales. Las fuerzas marinas evolucionaron para especializarse en las habilidades y capacidades necesarias para la guerra anfibia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_1">
+			<Text>Los infantes de marina, también conocidos como cuerpo de marines o infantería naval, son típicamente una fuerza de infantería que se especializa en el apoyo de operaciones navales y militares en el mar y en tierra, así como en la ejecución de sus propias operaciones. En la mayoría de los países, la fuerza marítima es una parte integral de la armada, pero también puede estar bajo el mando del ejército como las Troupes de marine (Marines franceses) y la Brigada Givati ​​(Marines israelíes), o formar una rama de servicio independiente como la Cuerpo de Marines de los Estados Unidos y Royal Marines (aunque el Cuerpo de Marines de los Estados Unidos depende del Departamento de Marina de los Estados Unidos y los Royal Marines están bajo el Servicio Naval de Su Majestad). Históricamente, las tareas llevadas a cabo por los marines han incluido: ayudar a mantener la disciplina y el orden a bordo del barco (lo que refleja la naturaleza presionada de la compañía de los barcos y el riesgo de motín), el abordaje de los barcos durante el combate o la captura de barcos premiados, y proporcionar mano de obra para incursiones en tierra en apoyo de los objetivos navales. Las fuerzas marinas evolucionaron para especializarse en las habilidades y capacidades necesarias para la guerra anfibia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_1">
+			<Text>Una forma modificada de la cocina tradicional, el Dromon fue una parte integral de la armada bizantina durante el reinado del imperio. Con potencia de remo y vela, el Dromon era muy maniobrable y ágil, pero también peligrosamente equipado para la batalla. Mediante el uso del fuego griego, un precursor del napalm moderno, los bizantinos utilizaron una forma temprana del lanzallamas para infundir miedo en los corazones de cualquiera que se les opusiera en el mar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_1">
+			<Text>En la terminología naval de finales del siglo XIX, las lanchas torpederas eran una forma de cañonera armada con torpedos y diseñada para cazar y destruir botes torpederos más pequeños. A fines de la década de 1890, los cañoneros torpederos fueron reemplazados por sus contemporáneos más exitosos, el destructor. Varias lanchas de torpedos, el prototipo de serpiente de cascabel de 1886 seguido de la clase Grasshopper (de 3 buques), la clase Sharpshooter (13 buques), la clase Alarm (11 buques) y la clase Dryad (5 buques), se construyeron para el Royal Navy durante las décadas de 1880 y 1890; buques similares también fueron construidos o adquiridos de otro modo por varias naciones europeas y Japón. Esencialmente cruceros muy pequeños, las lanchas torpederas típicamente estaban equipadas con calderas de locomotoras y estaban equipadas con tubos de torpedos y un armamento de armas adecuado, destinado a cazar botes torpederos enemigos más pequeños.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_1">
+			<Text>Un crucero ligero es un tipo de buque de guerra de tamaño pequeño o mediano. El término es una abreviatura de la frase "crucero blindado ligero", que describe un barco pequeño que lleva armadura de la misma manera que un crucero blindado: un cinturón y una cubierta de protección. Antes de esto, los cruceros más pequeños habían sido del modelo de crucero protegido, y solo poseían cubiertas blindadas. Aunque más ligeros y más pequeños que otros barcos contemporáneos, seguían siendo verdaderos cruceros, conservando el radio de acción extendido y la autosuficiencia para actuar de forma independiente en todo el mundo. A lo largo de su historia, se desempeñaron en una variedad de roles, principalmente como escoltas de convoyes y buques de mando de destructores, pero también como exploradores y buques de apoyo de flota para las flotas de batalla.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_1">
+			<Text>El acorazado fue el tipo predominante de acorazado a principios del siglo XX. El primero de su tipo, el acorazado de la Royal Navy causó una impresión tan fuerte en la mente de la gente cuando se lanzó en 1906 que los acorazados similares construidos posteriormente se denominaron genéricamente "acorazados", y los acorazados anteriores se conocieron como "pre-acorazados". El diseño del Dreadnought tenía dos características revolucionarias: un esquema de armamento de "cañones grandes", con cañones de mayor calibre que los barcos anteriores, y propulsión por turbina de vapor. A medida que los acorazados se convirtieron en un símbolo del poder nacional, la llegada de estos nuevos buques de guerra fue un catalizador crucial en la intensificación de la carrera armamentista naval entre el Reino Unido y Alemania. Con el lanzamiento de un solo barco, Dreadnought, las escalas del poder naval se restablecieron durante la noche. Como resultado, surgieron razas de acorazados en todo el mundo, incluso en América del Sur, durante el período previo a la Primera Guerra Mundial.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_1">
+			<Text>Un cañón de riel es un dispositivo que usa fuerza electromagnética para lanzar proyectiles de alta velocidad, por medio de una armadura deslizante que se acelera a lo largo de un par de rieles conductores. [2] Por lo general, se construye como un arma, y ​​el proyectil normalmente no contiene explosivos, confiando en la alta velocidad del proyectil para infligir daño. El cañón de riel utiliza un par de conductores paralelos, o rieles, a lo largo de los cuales se acelera una armadura deslizante por los efectos electromagnéticos de una corriente que fluye por un riel, hacia la armadura y luego de regreso a lo largo del otro riel.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_1">
+			<Text>Un engranaje es un tipo de barco que apareció por primera vez en el siglo X y fue ampliamente utilizado a partir del siglo XII. Los dientes estaban construidos con clinker, generalmente de roble, que era una madera abundante en la región báltica de Prusia. Este buque estaba equipado con un solo mástil y una sola vela de aparejo cuadrado. Estos barcos se asociaron principalmente con el comercio marítimo en la Europa medieval, especialmente la Liga Hanseática, particularmente en la región del Mar Báltico. Tenían entre 15 y 25 metros (49 a 82 pies) de longitud con una manga de 5 a 8 metros (16 a 26 pies), y los barcos de cremallera más grandes podían transportar hasta 200 toneladas.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_FRIGATE_CHAPTER_HISTORY_PARA_1">
+			<Text>La introducción del misil tierra-aire después de la Segunda Guerra Mundial hizo que los barcos relativamente pequeños fueran efectivos para la guerra antiaérea: la "fragata de misiles guiados". En la USN, estos buques se llamaban "escoltas oceánicas" y se designaban "DE" o "DEG" hasta 1975, un vestigio de la escolta de destructores de la Segunda Guerra Mundial o "DE". La Royal Canadian Navy y la Royal Navy británica mantuvieron el uso del término "fragata"; Asimismo, la Armada francesa se refiere a barcos equipados con misiles, hasta barcos del tamaño de un crucero (clases Suffren, Tourville y Horizon), con el nombre de "frégate", mientras que las unidades más pequeñas se denominan aviso. La Armada soviética utilizó el término "barco de guardia" (сторожевой корабль).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_FRIGATE_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_FRIGATE_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_FRIGATE_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_FRIGATE_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+	</BaseGameText>
+</GameData>
